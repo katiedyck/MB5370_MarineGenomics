@@ -1,0 +1,12 @@
+---
+title: "MB5370 Marine Genomics - Workshop 2"
+subtitle: "Genome Assembly"
+author: "Katie Dyck"
+date: "2026-07-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
