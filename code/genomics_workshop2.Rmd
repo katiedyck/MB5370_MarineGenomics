@@ -4,9 +4,6 @@ subtitle: "Genome Assembly"
 author: "Katie Dyck"
 date: "2026-07-08"
 output: html_document
-editor_options: 
-  markdown: 
-    wrap: 72
 ---
 
 ```{r setup, include=FALSE}
@@ -40,9 +37,7 @@ assembly-stats amtp4.ctg.fa
 
 ### Assembly Stats
 
-In our assembly stats, N50 has the highest value, which tells us that a
-larger portion of the genome is assembled into long, contiguous pieces.
-This is representative of a good genome assembly!
+In our assembly stats, N50 has the highest value, which tells us that a larger portion of the genome is assembled into long, contiguous pieces. This is representative of a good genome assembly!
 
 -   sum = assembly length
 -   n = \# of contigs
@@ -83,8 +78,7 @@ assembly-stats amtp4_20x.ctg.fa
 
 ## Flye Assembly
 
-Need to set up a working directory where we will store outputs and run
-commands.
+Need to set up a working directory where we will store outputs and run commands.
 
 ```{bash setup flye, eval=FALSE}
 pwd
@@ -103,8 +97,7 @@ ln -s ../redbean/amtp4.fastq .
 ln -s ../redbean/amtp4_20x.fastq .
 ```
 
-We will run `flye` using the queuing system slurm. Created a new shell
-script file, "run_flye_small.sh", and saved it in the flye directory.
+We will run `flye` using the queuing system slurm. Created a new shell script file, "run_flye_small.sh", and saved it in the flye directory.
 
 ```{bash small shell script, eval=FALSE, include=FALSE}
 #!/bin/bash
@@ -135,8 +128,7 @@ tail slurm-343.out
 tail -f slurm-343.out
 ```
 
-Now we will make a new shell script file, "run_flye_large.sh", and save
-it to our `flye` directory.
+Now we will make a new shell script file, "run_flye_large.sh", and save it to our `flye` directory.
 
 ```{bash large shell script, eval=FALSE}
 sbatch run_flye_large.sh
@@ -154,44 +146,29 @@ assembly-stats amtp4/assembly.fasta
 
 ### Inspect low coverage flye assembly
 
-Export the file "assembly-graph.gfa" from the `amtp4/flye` file
-directory.
+Export the file "assembly-graph.gfa" from the `amtp4/flye` file directory.
 
-Open bandage and use the `File->Load Graph` menu to load the file
-"assembly-graph.gfa". Then click `Draw Graph`.
+Open bandage and use the `File->Load Graph` menu to load the file "assembly-graph.gfa". Then click `Draw Graph`.
 
 ```{r low-cov_fig, echo=FALSE, out.width="90%"}
 knitr::include_graphics("../visuals/assembly-graph_low.png")
 ```
 
-*In this visualisation contiguous segments are shown as solid coloured
-lines. Some of these are separated into independent graphs whereas
-others (e.g. the mess in the top left corner) are connected to each
-other via black lines. There are few things to keep in mind here;*
+*In this visualisation contiguous segments are shown as solid coloured lines. Some of these are separated into independent graphs whereas others (e.g. the mess in the top left corner) are connected to each other via black lines. There are few things to keep in mind here;*
 
-1.  *Biologically distinct entities such as chromosomes or plasmids will
-    form separate graphs*
-2.  *Separated graphs can also occur if coverage is very low and no
-    reads exist to join parts of the assembly together*
-3.  *Highly joined regions (eg top left) tend to occur because repeats
-    create ambiguities. There are too many connections and the assembler
-    has trouble choosing the correct path between them.*
+1.  *Biologically distinct entities such as chromosomes or plasmids will form separate graphs*
+2.  *Separated graphs can also occur if coverage is very low and no reads exist to join parts of the assembly together*
+3.  *Highly joined regions (eg top left) tend to occur because repeats create ambiguities. There are too many connections and the assembler has trouble choosing the correct path between them.*
 
 **Observations from the graph:**
 
--   There don't appear to be any chromosomes in this graph - depth is
-    too low (1-7x).
--   In the top left corner, amongst the contigs that are joined
-    together, the brown one in the middle is likely a repeat as it has a
-    depth of **42x** but is only 5,080 bp (base pairs) long.
--   There appears to be another potential repeat in the graph: the thick
-    pink contig on the right end of the 6th row down. It has a depth of
-    **122x** but is only 47,735 bp long!
+-   There don't appear to be any chromosomes in this graph - depth is too low (1-7x).
+-   In the top left corner, amongst the contigs that are joined together, the brown one in the middle is likely a repeat as it has a depth of **42x** but is only 5,080 bp (base pairs) long.
+-   There appears to be another potential repeat in the graph: the thick pink contig on the right end of the 6th row down. It has a depth of **122x** but is only 47,735 bp long!
 
 ### Inspect high coverage flye assembly
 
-Repeat this process with the "assembly-graph.gfa" file from the
-`amtp4_20x/flye` file directory.
+Repeat this process with the "assembly-graph.gfa" file from the `amtp4_20x/flye` file directory.
 
 ```{r high-cov_fig, echo=FALSE, out.width="90%"}
 knitr::include_graphics("../visuals/assembly-graph_20x.png")
@@ -199,27 +176,16 @@ knitr::include_graphics("../visuals/assembly-graph_20x.png")
 
 **Observations from the graph:**
 
--   There are 2 nodes that connect to themselves at the top of the
-    graph. The largest one is 3,367,286 bp and has a depth of 24x. The
-    smaller one is 1,775,300 bp and has a depth of 23x.
--   There is a small node (5,655 bp) connected to itself and the largest
-    node with a depth of 207x! I wonder if this is a plasmid with a lot
-    of repeats.
--   In the top right corner there are 3 nodes connected to one another.
-    Based on their small depth (3-5x) I don't think they are
-    chromosomes.
+-   There are 2 nodes that connect to themselves at the top of the graph. The largest one is 3,367,286 bp and has a depth of 24x. The smaller one is 1,775,300 bp and has a depth of 23x.
+-   There is a small node (5,655 bp) connected to itself and the largest node with a depth of 207x! I wonder if this is a plasmid with a lot of repeats.
+-   In the top right corner there are 3 nodes connected to one another. Based on their small depth (3-5x) I don't think they are chromosomes.
 -   There are lots of plasmids in the graph.
 
 ## Check Assembly Quality with QUAST
 
-While we could clearly see a huge improvement above in contiguity with
-the addition of more reads, we could not easily check for the accuracy
-of assemblies.
+While we could clearly see a huge improvement above in contiguity with the addition of more reads, we could not easily check for the accuracy of assemblies.
 
-Here we have a reference assembly which was previously created using
-very deep coverage and best-practice genome polishing tools. By
-comparing our assemblies to the reference we can assess them in terms of
-all the important metrics, contiguity, completeness and correctness.
+Here we have a reference assembly which was previously created using very deep coverage and best-practice genome polishing tools. By comparing our assemblies to the reference we can assess them in terms of all the important metrics, contiguity, completeness and correctness.
 
 ### Setup a Quast working directory
 
@@ -239,10 +205,7 @@ cd quast
 mkdir flye_asm redbean_asm
 ```
 
-Our reference assembly only contains contigs for the two major Vibrio
-chromosomes. For our two deeper coverage assemblies this will correspond
-to the two largest contigs. We extract these (and ignore all others) in
-order to make the assembly comparison easier to interpret.
+Our reference assembly only contains contigs for the two major Vibrio chromosomes. For our two deeper coverage assemblies this will correspond to the two largest contigs. We extract these (and ignore all others) in order to make the assembly comparison easier to interpret.
 
 ```{bash}
 # Look at contig sizes in the flye assembly:
@@ -273,8 +236,7 @@ ln -s /pvol/data/amtp4/reference/vibrio .
 quast -o quast_vibrio redbean_asm/vibrio.fasta flye_asm/vibrio.fasta -L -t 4 --circos --glimmer -r vibrio/vibrio.fna --features  vibrio/vibrio.gff --nanopore amtp4_20x.fastq
 ```
 
-This output is saved to the folder `quast_vibrio`. Look at the main
-report (`report.html`) and a circos plot (`circos/circos.png`).
+This output is saved to the folder `quast_vibrio`. Look at the main report (`report.html`) and a circos plot (`circos/circos.png`).
 
 *Both assemblers seem to have done a very good job of assembling the genome but both have produced regions where there are a large number of small differences (snps and indels) between the assembly and the reference. The redbean assembly also seems to have a couple of gaps which most likely correspond with the highly repetitive region we observed in the Bandage visualisation.*
 
@@ -288,3 +250,44 @@ mkdir ../repeat
 cd ../repeat
 ```
 
+### Extract repeat region sequence
+
+In Bandage, with the assembly graph from amtp4_20x:
+
+-   Click on the repeat contig
+-   `Output -> Copy selected node sequences to clipboard`
+-   In RStudio, open a blank text file and paste the sequence
+-   Edit the text file to add header `>repeat_1`
+-   Save file into `repeat/repeat.fasta`
+
+```{bash}
+# Use prokka to annotate this sequence to see if it contains any transcribed sequences
+prokka --outdir prokka --prefix repeat repeat.fasta
+
+# What type of genomic features does this produce?
+cat prokka/repeat.tsv
+```
+
+## Genomic arrangement of repeats
+
+We don't know how the repeats are arranged in the genome. We are specifically interested in whether they are arranged in tandem or dispersed throughout the genome. We can map the repeat sequence back to the genome itself using [minimap2](https://github.com/lh3/minimap2).
+
+```{bash}
+# Link in the data
+ln -s ../quast/vibrio/vibrio.fna .
+
+# Run minimap2
+minimap2 -x map-ont vibrio.fna repeat.fasta > repeat_vs_genome.paf
+
+# Examine the alignment
+head repeat_vs_genome.paf
+```
+
+Formatting is explained on [this webpage](https://github.com/lh3/miniasm/blob/master/PAF.md)
+
+```{bash}
+cat repeat_vs_genome.paf | grep '^repe' | awk -F '\t' '{print $6,$8,$9}' > repeat_locations.bed
+
+# column 2 = target sequence length
+# column 3 = target start on original strand (0-based)
+```

@@ -1,5 +1,6 @@
 ---
 title: "MB5370 Marine Genomics - Workshop 1"
+subtitle: "Introduction"
 author: "Katie Dyck"
 date: "2026-07-07"
 output: html_document
