@@ -1,0 +1,511 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GNAADAAI_00001	CDS	876				hypothetical protein
+GNAADAAI_00002	CDS	180				hypothetical protein
+GNAADAAI_00003	CDS	387				hypothetical protein
+GNAADAAI_00004	CDS	1284				hypothetical protein
+GNAADAAI_00005	CDS	801				hypothetical protein
+GNAADAAI_00006	CDS	459				hypothetical protein
+GNAADAAI_00007	CDS	1146	hipO	3.5.1.32	COG1473	Hippurate hydrolase
+GNAADAAI_00008	CDS	396	vraR			Response regulator protein VraR
+GNAADAAI_00009	CDS	1707	cdr	1.8.1.14		Coenzyme A disulfide reductase
+GNAADAAI_00010	CDS	477	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+GNAADAAI_00011	CDS	1122	dnaJ		COG0484	Chaperone protein DnaJ
+GNAADAAI_00012	CDS	222	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+GNAADAAI_00013	CDS	1311				hypothetical protein
+GNAADAAI_00014	CDS	711	ttcA	2.8.1.-		tRNA-cytidine(32) 2-sulfurtransferase
+GNAADAAI_00015	CDS	906				hypothetical protein
+GNAADAAI_00016	CDS	804	fliR		COG1684	Flagellar biosynthetic protein FliR
+GNAADAAI_00017	CDS	390				hypothetical protein
+GNAADAAI_00018	CDS	654	flhB		COG1377	Flagellar biosynthetic protein FlhB
+GNAADAAI_00019	CDS	2103	flhA		COG1298	Flagellar biosynthesis protein FlhA
+GNAADAAI_00020	CDS	1089				hypothetical protein
+GNAADAAI_00021	CDS	828	ylxH_1		COG0455	Flagellum site-determining protein YlxH
+GNAADAAI_00022	CDS	792	fliA		COG1191	RNA polymerase sigma factor FliA
+GNAADAAI_00023	CDS	384	cheY_1		COG0784	Chemotaxis protein CheY
+GNAADAAI_00024	CDS	705				hypothetical protein
+GNAADAAI_00025	CDS	324				hypothetical protein
+GNAADAAI_00026	CDS	411				hypothetical protein
+GNAADAAI_00027	CDS	1296			COG3039	IS5 family transposase ISDde1
+GNAADAAI_00028	CDS	834				hypothetical protein
+GNAADAAI_00029	CDS	2133				hypothetical protein
+GNAADAAI_00030	CDS	927	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+GNAADAAI_00031	CDS	864	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+GNAADAAI_00032	CDS	1074	prfA		COG0216	Peptide chain release factor 1
+GNAADAAI_00033	CDS	1092				hypothetical protein
+GNAADAAI_00034	CDS	231	rpmE		COG0254	50S ribosomal protein L31
+GNAADAAI_00035	CDS	318	dsvC	1.8.99.5	COG2920	Sulfite reductase, dissimilatory-type subunit gamma
+GNAADAAI_00036	CDS	1728				hypothetical protein
+GNAADAAI_00037	CDS	720				hypothetical protein
+GNAADAAI_00038	tRNA	75				tRNA-Gly(gcc)
+GNAADAAI_00039	tRNA	75				tRNA-Gly(gcc)
+GNAADAAI_00040	tRNA	75				tRNA-Cys(gca)
+GNAADAAI_00041	tRNA	75				tRNA-Gly(gcc)
+GNAADAAI_00042	tRNA	75				tRNA-Gly(gcc)
+GNAADAAI_00043	tRNA	75				tRNA-Gly(gcc)
+GNAADAAI_00044	tRNA	75				tRNA-Cys(gca)
+GNAADAAI_00045	tRNA	75				tRNA-Gly(gcc)
+GNAADAAI_00046	CDS	363	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+GNAADAAI_00047	CDS	1512				hypothetical protein
+GNAADAAI_00048	CDS	1002				hypothetical protein
+GNAADAAI_00049	CDS	2643				hypothetical protein
+GNAADAAI_00050	CDS	363				hypothetical protein
+GNAADAAI_00051	CDS	879				hypothetical protein
+GNAADAAI_00052	CDS	1104	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GNAADAAI_00053	CDS	912				hypothetical protein
+GNAADAAI_00054	CDS	1425	oprM		COG1538	Outer membrane protein OprM
+GNAADAAI_00055	CDS	795				hypothetical protein
+GNAADAAI_00056	CDS	705				hypothetical protein
+GNAADAAI_00057	CDS	879	rfbA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+GNAADAAI_00058	CDS	144				hypothetical protein
+GNAADAAI_00059	CDS	549				hypothetical protein
+GNAADAAI_00060	CDS	135				hypothetical protein
+GNAADAAI_00061	CDS	435	arcB	2.7.13.3	COG0642	Aerobic respiration control sensor protein ArcB
+GNAADAAI_00062	CDS	369				hypothetical protein
+GNAADAAI_00063	CDS	618				hypothetical protein
+GNAADAAI_00064	CDS	537				hypothetical protein
+GNAADAAI_00065	CDS	564	tesA	3.1.1.1	COG2755	Esterase TesA
+GNAADAAI_00066	CDS	1155				hypothetical protein
+GNAADAAI_00067	CDS	126				hypothetical protein
+GNAADAAI_00068	CDS	2103				hypothetical protein
+GNAADAAI_00069	CDS	282				hypothetical protein
+GNAADAAI_00070	CDS	1698				hypothetical protein
+GNAADAAI_00071	tRNA	87				tRNA-Leu(taa)
+GNAADAAI_00072	CDS	2172				hypothetical protein
+GNAADAAI_00073	CDS	873	rhaR_1			HTH-type transcriptional activator RhaR
+GNAADAAI_00074	CDS	297	yhdT		COG3924	putative membrane protein YhdT
+GNAADAAI_00075	CDS	1473	panF		COG4145	Sodium/pantothenate symporter
+GNAADAAI_00076	CDS	669	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU
+GNAADAAI_00077	CDS	858				hypothetical protein
+GNAADAAI_00078	CDS	201	thiS		COG2104	Sulfur carrier protein ThiS
+GNAADAAI_00079	CDS	777	thiG	2.8.1.10	COG2022	Thiazole synthase
+GNAADAAI_00080	CDS	1125	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+GNAADAAI_00081	CDS	624				hypothetical protein
+GNAADAAI_00082	CDS	651	thiE	2.5.1.3	COG0352	Thiamine-phosphate synthase
+GNAADAAI_00083	CDS	333				hypothetical protein
+GNAADAAI_00084	CDS	912	fdhE			Protein FdhE
+GNAADAAI_00085	CDS	735			COG0437	Formate dehydrogenase 2 subunit beta (cytochrome c-553)
+GNAADAAI_00086	CDS	1377	fdnG-3_1	1.17.2.3	COG0243	Formate dehydrogenase 2 subunit alpha (cytochrome c-553)
+GNAADAAI_00087	CDS	1092	fdnG-3_2	1.17.2.3	COG0243	Formate dehydrogenase 2 subunit alpha (cytochrome c-553)
+GNAADAAI_00088	CDS	567	fdnG-3_3	1.17.2.3	COG0243	Formate dehydrogenase 2 subunit alpha (cytochrome c-553)
+GNAADAAI_00089	CDS	192				hypothetical protein
+GNAADAAI_00090	CDS	1656	ipdC	4.1.1.74	COG3961	Indole-3-pyruvate decarboxylase
+GNAADAAI_00091	CDS	420				hypothetical protein
+GNAADAAI_00092	CDS	1689				hypothetical protein
+GNAADAAI_00093	CDS	234				hypothetical protein
+GNAADAAI_00094	CDS	1278		6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+GNAADAAI_00095	CDS	1083				hypothetical protein
+GNAADAAI_00096	CDS	2448				hypothetical protein
+GNAADAAI_00097	CDS	2271	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+GNAADAAI_00098	CDS	1380	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+GNAADAAI_00099	CDS	1059				hypothetical protein
+GNAADAAI_00100	CDS	1065				hypothetical protein
+GNAADAAI_00101	CDS	951		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+GNAADAAI_00102	CDS	1371				hypothetical protein
+GNAADAAI_00103	CDS	1506	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GNAADAAI_00104	CDS	1110				hypothetical protein
+GNAADAAI_00105	CDS	1410				hypothetical protein
+GNAADAAI_00106	CDS	1881				hypothetical protein
+GNAADAAI_00107	CDS	2829	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+GNAADAAI_00108	CDS	609				hypothetical protein
+GNAADAAI_00109	CDS	1509				hypothetical protein
+GNAADAAI_00110	CDS	822				hypothetical protein
+GNAADAAI_00111	CDS	561				hypothetical protein
+GNAADAAI_00112	CDS	843			COG2342	putative protein
+GNAADAAI_00113	CDS	1395				hypothetical protein
+GNAADAAI_00114	CDS	693	acnR		COG1309	HTH-type transcriptional repressor AcnR
+GNAADAAI_00115	CDS	1011			COG1638	Solute-binding protein
+GNAADAAI_00116	CDS	486				hypothetical protein
+GNAADAAI_00117	CDS	1314	dctM		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+GNAADAAI_00118	CDS	1299	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+GNAADAAI_00119	CDS	1806				hypothetical protein
+GNAADAAI_00120	CDS	132				hypothetical protein
+GNAADAAI_00121	tRNA	76				tRNA-Ala(ggc)
+GNAADAAI_00122	CDS	1671	ynfE	1.8.99.-	COG0243	Putative dimethyl sulfoxide reductase chain YnfE
+GNAADAAI_00123	CDS	135				hypothetical protein
+GNAADAAI_00124	CDS	96				hypothetical protein
+GNAADAAI_00125	CDS	147				hypothetical protein
+GNAADAAI_00126	CDS	270				hypothetical protein
+GNAADAAI_00127	CDS	204				hypothetical protein
+GNAADAAI_00128	CDS	387				hypothetical protein
+GNAADAAI_00129	CDS	429				hypothetical protein
+GNAADAAI_00130	CDS	324				hypothetical protein
+GNAADAAI_00131	CDS	282				hypothetical protein
+GNAADAAI_00132	CDS	345				hypothetical protein
+GNAADAAI_00133	CDS	1263	rarA		COG2256	Replication-associated recombination protein A
+GNAADAAI_00134	CDS	1146	atoS	2.7.13.3	COG0642	Signal transduction histidine-protein kinase AtoS
+GNAADAAI_00135	CDS	1221				hypothetical protein
+GNAADAAI_00136	CDS	330				hypothetical protein
+GNAADAAI_00137	CDS	1275				hypothetical protein
+GNAADAAI_00138	CDS	1221				hypothetical protein
+GNAADAAI_00139	CDS	678	cysG	4.99.1.4		Siroheme synthase
+GNAADAAI_00140	CDS	828	ccsA			Cytochrome c biogenesis protein CcsA
+GNAADAAI_00141	CDS	1320	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+GNAADAAI_00142	CDS	336				hypothetical protein
+GNAADAAI_00143	CDS	1026	tilS	6.3.4.19		tRNA(Ile)-lysidine synthase
+GNAADAAI_00144	CDS	672	adk	2.7.4.3		Adenylate kinase
+GNAADAAI_00145	CDS	1425				hypothetical protein
+GNAADAAI_00146	CDS	1353			COG2239	Magnesium transporter MgtE
+GNAADAAI_00147	CDS	876	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+GNAADAAI_00148	CDS	1023	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+GNAADAAI_00149	CDS	1596	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+GNAADAAI_00150	CDS	1137				hypothetical protein
+GNAADAAI_00151	CDS	1455	trkH		COG0168	Trk system potassium uptake protein TrkH
+GNAADAAI_00152	CDS	1368	trkA		COG0569	Trk system potassium uptake protein TrkA
+GNAADAAI_00153	CDS	264	rpsT		COG0268	30S ribosomal protein S20
+GNAADAAI_00154	CDS	2094	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+GNAADAAI_00155	CDS	873	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+GNAADAAI_00156	CDS	741	recO		COG1381	DNA repair protein RecO
+GNAADAAI_00157	CDS	876	rodZ			Cytoskeleton protein RodZ
+GNAADAAI_00158	CDS	939	surA_1	5.2.1.8		Chaperone SurA
+GNAADAAI_00159	CDS	963	surA_2	5.2.1.8		Chaperone SurA
+GNAADAAI_00160	CDS	3450	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+GNAADAAI_00161	CDS	480	cheW		COG0835	Chemotaxis protein CheW
+GNAADAAI_00162	CDS	219				hypothetical protein
+GNAADAAI_00163	CDS	1347	ywqF	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase YwqF
+GNAADAAI_00164	CDS	726	pdxJ	2.6.99.2	COG0854	Pyridoxine 5'-phosphate synthase
+GNAADAAI_00165	CDS	375	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+GNAADAAI_00166	CDS	1536	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+GNAADAAI_00167	CDS	450		2.7.7.-		A-adding tRNA nucleotidyltransferase
+GNAADAAI_00168	CDS	495	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+GNAADAAI_00169	CDS	1239	lysC	2.7.2.4	COG0527	Aspartate kinase Ask_LysC
+GNAADAAI_00170	CDS	1602	cimA	2.3.1.182	COG0119	(R)-citramalate synthase
+GNAADAAI_00171	CDS	840				hypothetical protein
+GNAADAAI_00172	CDS	2232				hypothetical protein
+GNAADAAI_00173	CDS	420				hypothetical protein
+GNAADAAI_00174	CDS	261				hypothetical protein
+GNAADAAI_00175	CDS	2814	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+GNAADAAI_00176	CDS	471	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+GNAADAAI_00177	CDS	756	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+GNAADAAI_00178	CDS	237				hypothetical protein
+GNAADAAI_00179	CDS	924	cpoB_1			Cell division coordinator CpoB
+GNAADAAI_00180	CDS	429	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+GNAADAAI_00181	CDS	513				hypothetical protein
+GNAADAAI_00182	CDS	741				hypothetical protein
+GNAADAAI_00183	CDS	1305				hypothetical protein
+GNAADAAI_00184	CDS	1182	purT	2.1.2.-	COG0027	Formate-dependent phosphoribosylglycinamide formyltransferase
+GNAADAAI_00185	CDS	579	ubiX	2.5.1.129	COG0163	Flavin prenyltransferase UbiX
+GNAADAAI_00186	CDS	684				hypothetical protein
+GNAADAAI_00187	CDS	1809	uvrC		COG0322	UvrABC system protein C
+GNAADAAI_00188	CDS	1368				hypothetical protein
+GNAADAAI_00189	CDS	1371				hypothetical protein
+GNAADAAI_00190	CDS	1311	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+GNAADAAI_00191	CDS	900	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+GNAADAAI_00192	CDS	765	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+GNAADAAI_00193	CDS	312	rpsF		COG0360	30S ribosomal protein S6
+GNAADAAI_00194	CDS	261				hypothetical protein
+GNAADAAI_00195	CDS	534				hypothetical protein
+GNAADAAI_00196	CDS	1428	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+GNAADAAI_00197	CDS	1296		6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+GNAADAAI_00198	CDS	504				hypothetical protein
+GNAADAAI_00199	CDS	1452				hypothetical protein
+GNAADAAI_00200	CDS	744	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+GNAADAAI_00201	CDS	1296			COG2067	47 kDa outer membrane protein
+GNAADAAI_00202	CDS	1296			COG2067	47 kDa outer membrane protein
+GNAADAAI_00203	CDS	1557				hypothetical protein
+GNAADAAI_00204	CDS	987	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+GNAADAAI_00205	CDS	735				putative protein
+GNAADAAI_00206	CDS	828				hypothetical protein
+GNAADAAI_00207	CDS	441				hypothetical protein
+GNAADAAI_00208	CDS	315				hypothetical protein
+GNAADAAI_00209	CDS	990				hypothetical protein
+GNAADAAI_00210	CDS	300				hypothetical protein
+GNAADAAI_00211	CDS	333				hypothetical protein
+GNAADAAI_00212	CDS	507				hypothetical protein
+GNAADAAI_00213	CDS	1566				hypothetical protein
+GNAADAAI_00214	tRNA	77				tRNA-Arg(ccg)
+GNAADAAI_00215	CDS	357				hypothetical protein
+GNAADAAI_00216	CDS	441				hypothetical protein
+GNAADAAI_00217	CDS	255				hypothetical protein
+GNAADAAI_00218	CDS	348				hypothetical protein
+GNAADAAI_00219	CDS	858	intS		COG0582	Prophage integrase IntS
+GNAADAAI_00220	CDS	591				hypothetical protein
+GNAADAAI_00221	CDS	180				hypothetical protein
+GNAADAAI_00222	CDS	126				hypothetical protein
+GNAADAAI_00223	CDS	516				hypothetical protein
+GNAADAAI_00224	CDS	171				hypothetical protein
+GNAADAAI_00225	CDS	762				hypothetical protein
+GNAADAAI_00226	CDS	1428	tolQ_1			Tol-Pal system protein TolQ
+GNAADAAI_00227	CDS	585	tolQ_2			Tol-Pal system protein TolQ
+GNAADAAI_00228	CDS	414	tolR			Tol-Pal system protein TolR
+GNAADAAI_00229	CDS	912				hypothetical protein
+GNAADAAI_00230	CDS	747	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+GNAADAAI_00231	CDS	843	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+GNAADAAI_00232	CDS	2055	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+GNAADAAI_00233	tRNA	94				tRNA-SeC(tca)
+GNAADAAI_00234	CDS	999	hhaIM	2.1.1.37		Modification methylase HhaI
+GNAADAAI_00235	CDS	534				hypothetical protein
+GNAADAAI_00236	CDS	1383	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+GNAADAAI_00237	CDS	1236	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+GNAADAAI_00238	CDS	978	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+GNAADAAI_00239	CDS	456	ybeY	3.1.-.-		Endoribonuclease YbeY
+GNAADAAI_00240	CDS	981			COG1702	PhoH-like protein
+GNAADAAI_00241	CDS	369	cheY_2		COG0784	Chemotaxis protein CheY
+GNAADAAI_00242	CDS	1167	rlmL	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+GNAADAAI_00243	CDS	1473	putP		COG0591	High-affinity proline transporter PutP
+GNAADAAI_00244	CDS	162				hypothetical protein
+GNAADAAI_00245	CDS	390				hypothetical protein
+GNAADAAI_00246	CDS	675				hypothetical protein
+GNAADAAI_00247	tRNA	84				tRNA-Leu(tag)
+GNAADAAI_00248	CDS	1362	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+GNAADAAI_00249	CDS	1953				hypothetical protein
+GNAADAAI_00250	CDS	1431				hypothetical protein
+GNAADAAI_00251	CDS	273	ilvN	2.2.1.6	COG0440	Acetolactate synthase isozyme 1 small subunit
+GNAADAAI_00252	CDS	1665	ilvB	2.2.1.6	COG0028	Acetolactate synthase isozyme 1 large subunit
+GNAADAAI_00253	CDS	120				hypothetical protein
+GNAADAAI_00254	CDS	711				hypothetical protein
+GNAADAAI_00255	CDS	1176				hypothetical protein
+GNAADAAI_00256	CDS	1167	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+GNAADAAI_00257	CDS	1263	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GNAADAAI_00258	CDS	1119	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GNAADAAI_00259	CDS	618	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+GNAADAAI_00260	CDS	1158				hypothetical protein
+GNAADAAI_00261	CDS	789				hypothetical protein
+GNAADAAI_00262	CDS	678				hypothetical protein
+GNAADAAI_00263	CDS	735	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+GNAADAAI_00264	CDS	4869				hypothetical protein
+GNAADAAI_00265	CDS	1974				hypothetical protein
+GNAADAAI_00266	CDS	1962				hypothetical protein
+GNAADAAI_00267	CDS	897				hypothetical protein
+GNAADAAI_00268	CDS	447				hypothetical protein
+GNAADAAI_00269	CDS	429				hypothetical protein
+GNAADAAI_00270	CDS	939				hypothetical protein
+GNAADAAI_00271	CDS	1143		3.1.4.-	COG2206	Cyclic di-GMP phosphodiesterase
+GNAADAAI_00272	CDS	303				hypothetical protein
+GNAADAAI_00273	CDS	945				hypothetical protein
+GNAADAAI_00274	CDS	411	cheY_3		COG0784	Chemotaxis protein CheY
+GNAADAAI_00275	CDS	327				hypothetical protein
+GNAADAAI_00276	CDS	177				hypothetical protein
+GNAADAAI_00277	CDS	300				hypothetical protein
+GNAADAAI_00278	CDS	912	trxB	1.8.1.9		Thioredoxin reductase
+GNAADAAI_00279	CDS	681				hypothetical protein
+GNAADAAI_00280	CDS	747				hypothetical protein
+GNAADAAI_00281	CDS	1158	rnfC	7.1.1.-	COG4656	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+GNAADAAI_00282	CDS	981	rsxD	7.-.-.-	COG4658	Ion-translocating oxidoreductase complex subunit D
+GNAADAAI_00283	CDS	588	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+GNAADAAI_00284	CDS	669	rnfE_1	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+GNAADAAI_00285	CDS	264	rnfA_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit A
+GNAADAAI_00286	CDS	1224				hypothetical protein
+GNAADAAI_00287	CDS	1344	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+GNAADAAI_00288	CDS	1200	nqrB	7.2.1.1	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+GNAADAAI_00289	CDS	771	nqrC	7.2.1.1	COG2869	Na(+)-translocating NADH-quinone reductase subunit C
+GNAADAAI_00290	CDS	618	nqrD	7.2.1.1	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+GNAADAAI_00291	CDS	609	nqrE	7.2.1.1	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+GNAADAAI_00292	CDS	1227	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+GNAADAAI_00293	CDS	1035	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+GNAADAAI_00294	CDS	204				hypothetical protein
+GNAADAAI_00295	CDS	948	hydA	1.12.2.1	COG1740	Periplasmic [NiFe] hydrogenase small subunit
+GNAADAAI_00296	CDS	543	hydB_1	1.12.2.1	COG0374	Periplasmic [NiFe] hydrogenase large subunit
+GNAADAAI_00297	CDS	1029	hydB_2	1.12.2.1		Periplasmic [NiFe] hydrogenase large subunit
+GNAADAAI_00298	CDS	492	hyaD	3.4.23.-	COG0680	Hydrogenase 1 maturation protease
+GNAADAAI_00299	CDS	258				hypothetical protein
+GNAADAAI_00300	CDS	1107	pepT	3.4.11.4	COG2195	Peptidase T
+GNAADAAI_00301	CDS	504	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+GNAADAAI_00302	CDS	414				Cytochrome c3
+GNAADAAI_00303	CDS	744	fdhB			Formate dehydrogenase subunit beta
+GNAADAAI_00304	CDS	2424	fdhA_1	1.17.1.9		Formate dehydrogenase subunit alpha
+GNAADAAI_00305	CDS	588	fdhA_2	1.17.1.9		Formate dehydrogenase subunit alpha
+GNAADAAI_00306	CDS	1062	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+GNAADAAI_00307	CDS	1698				hypothetical protein
+GNAADAAI_00308	CDS	207				hypothetical protein
+GNAADAAI_00309	CDS	1026				hypothetical protein
+GNAADAAI_00310	CDS	1026	mreB			Cell shape-determining protein MreB
+GNAADAAI_00311	CDS	516	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+GNAADAAI_00312	CDS	537	mshD	2.3.1.189		Mycothiol acetyltransferase
+GNAADAAI_00313	CDS	1191	pgk/tpi_1		COG0126	Bifunctional PGK/TIM
+GNAADAAI_00314	CDS	756	pgk/tpi_2		COG0126	Bifunctional PGK/TIM
+GNAADAAI_00315	CDS	339	secG		COG1314	Protein-export membrane protein SecG
+GNAADAAI_00316	tRNA	87				tRNA-Leu(gag)
+GNAADAAI_00317	tRNA	87				tRNA-Leu(gag)
+GNAADAAI_00318	CDS	1434	calB	1.2.1.68		Coniferyl aldehyde dehydrogenase
+GNAADAAI_00319	tRNA	87				tRNA-Leu(gag)
+GNAADAAI_00320	tRNA	87				tRNA-Leu(gag)
+GNAADAAI_00321	CDS	1374				Bacteriohemerythrin
+GNAADAAI_00322	CDS	198				hypothetical protein
+GNAADAAI_00323	CDS	117				hypothetical protein
+GNAADAAI_00324	CDS	2088	cpoB_2			Cell division coordinator CpoB
+GNAADAAI_00325	CDS	267				hypothetical protein
+GNAADAAI_00326	CDS	447				hypothetical protein
+GNAADAAI_00327	CDS	1167	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+GNAADAAI_00328	CDS	912	xerD			Tyrosine recombinase XerD
+GNAADAAI_00329	CDS	2664		2.7.7.-	COG0517	A-adding tRNA nucleotidyltransferase
+GNAADAAI_00330	CDS	489		2.7.7.53	COG0537	AP-4-A phosphorylase
+GNAADAAI_00331	CDS	357				hypothetical protein
+GNAADAAI_00332	CDS	1140	lapB		COG2956	Lipopolysaccharide assembly protein B
+GNAADAAI_00333	CDS	768				hypothetical protein
+GNAADAAI_00334	CDS	1548	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+GNAADAAI_00335	CDS	1260	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+GNAADAAI_00336	CDS	495	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+GNAADAAI_00337	CDS	1068	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+GNAADAAI_00338	CDS	504				hypothetical protein
+GNAADAAI_00339	CDS	879	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+GNAADAAI_00340	CDS	696				hypothetical protein
+GNAADAAI_00341	CDS	276	hup_1			DNA-binding protein HU
+GNAADAAI_00342	CDS	825	ylxH_2		COG0455	Flagellum site-determining protein YlxH
+GNAADAAI_00343	CDS	852				hypothetical protein
+GNAADAAI_00344	CDS	936	prfB			Peptide chain release factor 2
+GNAADAAI_00345	CDS	1527	lnt	2.3.1.269	COG0815	Apolipoprotein N-acyltransferase
+GNAADAAI_00346	CDS	819	corC		COG4535	Magnesium and cobalt efflux protein CorC
+GNAADAAI_00347	CDS	1035				hypothetical protein
+GNAADAAI_00348	CDS	1884	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+GNAADAAI_00349	CDS	1221	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+GNAADAAI_00350	CDS	291				hypothetical protein
+GNAADAAI_00351	CDS	189	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+GNAADAAI_00352	CDS	747	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+GNAADAAI_00353	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+GNAADAAI_00354	CDS	450				hypothetical protein
+GNAADAAI_00355	CDS	789	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+GNAADAAI_00356	CDS	273	hup_2			DNA-binding protein HU
+GNAADAAI_00357	CDS	177				hypothetical protein
+GNAADAAI_00358	CDS	201	rpsU		COG0828	30S ribosomal protein S21
+GNAADAAI_00359	CDS	447	yqeY		COG1610	putative protein YqeY
+GNAADAAI_00360	CDS	2322	mutS2	3.1.-.-		Endonuclease MutS2
+GNAADAAI_00361	CDS	1740	dnaG	2.7.7.-		DNA primase
+GNAADAAI_00362	CDS	1758	rpoD		COG0568	RNA polymerase sigma factor RpoD
+GNAADAAI_00363	CDS	960	cobD		COG1270	Cobalamin biosynthesis protein CobD
+GNAADAAI_00364	CDS	1950				hypothetical protein
+GNAADAAI_00365	CDS	768	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+GNAADAAI_00366	CDS	420	ndk	2.7.4.6		Nucleoside diphosphate kinase
+GNAADAAI_00367	CDS	795	cmpC	3.6.3.-	COG0715	Bicarbonate transport ATP-binding protein CmpC
+GNAADAAI_00368	CDS	903				hypothetical protein
+GNAADAAI_00369	CDS	771				hypothetical protein
+GNAADAAI_00370	CDS	246				hypothetical protein
+GNAADAAI_00371	CDS	450				hypothetical protein
+GNAADAAI_00372	CDS	315				hypothetical protein
+GNAADAAI_00373	CDS	1032				hypothetical protein
+GNAADAAI_00374	CDS	606				hypothetical protein
+GNAADAAI_00375	CDS	117				hypothetical protein
+GNAADAAI_00376	CDS	492				hypothetical protein
+GNAADAAI_00377	CDS	225				hypothetical protein
+GNAADAAI_00378	CDS	174				hypothetical protein
+GNAADAAI_00379	CDS	342				hypothetical protein
+GNAADAAI_00380	CDS	312				hypothetical protein
+GNAADAAI_00381	CDS	204				hypothetical protein
+GNAADAAI_00382	CDS	324				hypothetical protein
+GNAADAAI_00383	tmRNA	360	ssrA			transfer-messenger RNA, SsrA
+GNAADAAI_00384	CDS	387				putative protein
+GNAADAAI_00385	CDS	555				hypothetical protein
+GNAADAAI_00386	CDS	1179				hypothetical protein
+GNAADAAI_00387	CDS	1134				hypothetical protein
+GNAADAAI_00388	CDS	1833				hypothetical protein
+GNAADAAI_00389	CDS	630				hypothetical protein
+GNAADAAI_00390	CDS	273				hypothetical protein
+GNAADAAI_00391	CDS	315				hypothetical protein
+GNAADAAI_00392	CDS	432				hypothetical protein
+GNAADAAI_00393	CDS	573	flr			Flavoredoxin
+GNAADAAI_00394	CDS	201				hypothetical protein
+GNAADAAI_00395	CDS	654	liaR		COG2197	Transcriptional regulatory protein LiaR
+GNAADAAI_00396	CDS	2073				hypothetical protein
+GNAADAAI_00397	CDS	1104				hypothetical protein
+GNAADAAI_00398	CDS	783	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+GNAADAAI_00399	CDS	1845	ligA	6.5.1.2	COG0272	DNA ligase
+GNAADAAI_00400	CDS	984	kefC			Glutathione-regulated potassium-efflux system protein KefC
+GNAADAAI_00401	CDS	2007	uvrB			UvrABC system protein B
+GNAADAAI_00402	CDS	498				hypothetical protein
+GNAADAAI_00403	CDS	723	aat	2.3.2.6	COG2360	Leucyl/phenylalanyl-tRNA--protein transferase
+GNAADAAI_00404	CDS	2310	clpA		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpA
+GNAADAAI_00405	CDS	309	clpS		COG2127	ATP-dependent Clp protease adapter protein ClpS
+GNAADAAI_00406	CDS	576				hypothetical protein
+GNAADAAI_00407	CDS	381	crcB			Putative fluoride ion transporter CrcB
+GNAADAAI_00408	CDS	348				hypothetical protein
+GNAADAAI_00409	CDS	858	cheB3	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase of group 3 operon
+GNAADAAI_00410	CDS	1227	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+GNAADAAI_00411	CDS	1182	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+GNAADAAI_00412	CDS	411		3.1.-.-	COG0824	Putative esterase
+GNAADAAI_00413	CDS	786				hypothetical protein
+GNAADAAI_00414	CDS	498				hypothetical protein
+GNAADAAI_00415	CDS	1539	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+GNAADAAI_00416	CDS	921				hypothetical protein
+GNAADAAI_00417	CDS	1059				hypothetical protein
+GNAADAAI_00418	CDS	1077				Purine-binding protein
+GNAADAAI_00419	CDS	498	gpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+GNAADAAI_00420	CDS	1077				hypothetical protein
+GNAADAAI_00421	CDS	2427				hypothetical protein
+GNAADAAI_00422	CDS	216				hypothetical protein
+GNAADAAI_00423	CDS	3237				hypothetical protein
+GNAADAAI_00424	CDS	276				hypothetical protein
+GNAADAAI_00425	CDS	642	xerC_1			Tyrosine recombinase XerC
+GNAADAAI_00426	CDS	681				hypothetical protein
+GNAADAAI_00427	CDS	225				hypothetical protein
+GNAADAAI_00428	CDS	636				hypothetical protein
+GNAADAAI_00429	CDS	99				hypothetical protein
+GNAADAAI_00430	CDS	282				hypothetical protein
+GNAADAAI_00431	CDS	396				hypothetical protein
+GNAADAAI_00432	CDS	294				hypothetical protein
+GNAADAAI_00433	CDS	318				hypothetical protein
+GNAADAAI_00434	CDS	114				hypothetical protein
+GNAADAAI_00435	CDS	483				hypothetical protein
+GNAADAAI_00436	CDS	765	soj_1	3.6.-.-	COG1192	Chromosome-partitioning ATPase Soj
+GNAADAAI_00437	CDS	324				hypothetical protein
+GNAADAAI_00438	CDS	534				hypothetical protein
+GNAADAAI_00439	CDS	222				hypothetical protein
+GNAADAAI_00440	CDS	1170	xerC_2			Tyrosine recombinase XerC
+GNAADAAI_00441	CDS	729				hypothetical protein
+GNAADAAI_00442	CDS	720				hypothetical protein
+GNAADAAI_00443	CDS	528				hypothetical protein
+GNAADAAI_00444	CDS	321				hypothetical protein
+GNAADAAI_00445	CDS	585	rnfE_2	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+GNAADAAI_00446	CDS	576	rnfA_2	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+GNAADAAI_00447	CDS	2109	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+GNAADAAI_00448	CDS	198				hypothetical protein
+GNAADAAI_00449	CDS	288				hypothetical protein
+GNAADAAI_00450	CDS	993				hypothetical protein
+GNAADAAI_00451	CDS	210				hypothetical protein
+GNAADAAI_00452	CDS	729				hypothetical protein
+GNAADAAI_00453	CDS	1233				hypothetical protein
+GNAADAAI_00454	CDS	1095			COG0628	Putative transport protein
+GNAADAAI_00455	CDS	1971	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+GNAADAAI_00456	CDS	738	glnQ			Glutamine transport ATP-binding protein GlnQ
+GNAADAAI_00457	CDS	786	yecS		COG0765	L-cystine transport system permease protein YecS
+GNAADAAI_00458	CDS	414				hypothetical protein
+GNAADAAI_00459	CDS	306				hypothetical protein
+GNAADAAI_00460	CDS	912				hypothetical protein
+GNAADAAI_00461	CDS	969	rhaR_2			HTH-type transcriptional activator RhaR
+GNAADAAI_00462	CDS	2064	fyuA		COG1629	Pesticin receptor
+GNAADAAI_00463	CDS	510				hypothetical protein
+GNAADAAI_00464	CDS	513				hypothetical protein
+GNAADAAI_00465	CDS	1545				hypothetical protein
+GNAADAAI_00466	CDS	414				hypothetical protein
+GNAADAAI_00467	CDS	1563				hypothetical protein
+GNAADAAI_00468	CDS	2391				hypothetical protein
+GNAADAAI_00469	CDS	1746	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+GNAADAAI_00470	CDS	264				hypothetical protein
+GNAADAAI_00471	CDS	1074				hypothetical protein
+GNAADAAI_00472	CDS	1005	haeIIIM	2.1.1.37		Modification methylase HaeIII
+GNAADAAI_00473	CDS	3579				hypothetical protein
+GNAADAAI_00474	CDS	924	birA	6.3.4.15		Bifunctional ligase/repressor BirA
+GNAADAAI_00475	CDS	1140				hypothetical protein
+GNAADAAI_00476	CDS	912				hypothetical protein
+GNAADAAI_00477	CDS	729				hypothetical protein
+GNAADAAI_00478	CDS	2370				hypothetical protein
+GNAADAAI_00479	CDS	2178	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+GNAADAAI_00480	CDS	294	cheA	2.7.13.3	COG0643	Chemotaxis protein CheA
+GNAADAAI_00481	CDS	369	cheY_4		COG0784	Chemotaxis protein CheY 
+GNAADAAI_00482	CDS	699				hypothetical protein
+GNAADAAI_00483	CDS	819	soj_2	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+GNAADAAI_00484	CDS	837	cheR1	2.1.1.80		Chemotaxis protein methyltransferase 1
+GNAADAAI_00485	CDS	2007				hypothetical protein
+GNAADAAI_00486	CDS	1050	cheB1	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase 1
+GNAADAAI_00487	tRNA	77				tRNA-Pro(cgg)
+GNAADAAI_00488	CDS	420				hypothetical protein
+GNAADAAI_00489	CDS	156				hypothetical protein
+GNAADAAI_00490	CDS	606				hypothetical protein
+GNAADAAI_00491	CDS	1464		3.1.4.-	COG2206	Cyclic di-GMP phosphodiesterase
+GNAADAAI_00492	CDS	2625				hypothetical protein
+GNAADAAI_00493	CDS	240				hypothetical protein
+GNAADAAI_00494	CDS	195				hypothetical protein
+GNAADAAI_00495	CDS	180				hypothetical protein
+GNAADAAI_00496	CDS	876	dppB		COG0601	Dipeptide transport system permease protein DppB
+GNAADAAI_00497	CDS	846	gsiD		COG1173	Glutathione transport system permease protein GsiD
+GNAADAAI_00498	CDS	1560	recN		COG0497	DNA repair protein RecN
+GNAADAAI_00499	CDS	1071				hypothetical protein
+GNAADAAI_00500	CDS	729				hypothetical protein
+GNAADAAI_00501	CDS	168				hypothetical protein
+GNAADAAI_00502	CDS	306	cheY_5		COG0784	Chemotaxis protein CheY 
+GNAADAAI_00503	CDS	2964				hypothetical protein
+GNAADAAI_00504	CDS	549		1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+GNAADAAI_00505	CDS	153				hypothetical protein
+GNAADAAI_00506	CDS	168				hypothetical protein
+GNAADAAI_00507	CDS	555	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+GNAADAAI_00508	CDS	480	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+GNAADAAI_00509	CDS	342				hypothetical protein
+GNAADAAI_00510	CDS	954	serS	6.1.1.11	COG0172	Serine--tRNA ligase

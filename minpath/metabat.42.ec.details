@@ -1,0 +1,215 @@
+path PWY-6297 fam0 1 fam-found 1 # tuberonate glucoside biosynthesis
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY-46 fam0 2 fam-found 1 # putrescine biosynthesis III
+   4.1.1.17 hits 1 # ornithine decarboxylase
+path PWY0-1303 fam0 2 fam-found 1 # aminopropylcadaverine biosynthesis
+   2.5.1.- hits 1 # aminopropylcadaverine synthase
+path POLYAMSYN-PWY fam0 6 fam-found 2 # superpathway of polyamine biosynthesis I
+   2.5.1.- hits 1 # aminopropylcadaverine synthase
+   4.1.1.17 hits 1 # ornithine decarboxylase
+path PWY-6936 fam0 2 fam-found 1 # seleno-amino acid biosynthesis (plants)
+   2.5.1.- hits 1 # aminopropylcadaverine synthase
+path BRANCHED-CHAIN-AA-SYN-PWY fam0 7 fam-found 3 # superpathway of branched chain amino acid biosynthesis
+   2.2.1.6 hits 2 # acetolactate synthase
+   4.2.1.9 hits 1 # 2,3-dihydroxy-3-methylvalerate hydro-lyase
+   2.3.3.13 hits 1 # 2-isopropylmalate synthase
+path PWY-724 fam0 7 fam-found 2 # superpathway of L-lysine, L-threonine and L-methionine biosynthesis II
+   2.6.1.83 hits 1 # L,L-diaminopimelate aminotransferase
+   2.1.1.14 hits 1 # cobalamin-independent homocysteine transmethylase
+path TRNA-CHARGING-PWY fam0 20 fam-found 3 # tRNA charging
+   6.1.1.9 hits 1 # valine--tRNA ligase
+   6.1.1.4 hits 1 # leucine--tRNA ligase
+   6.1.1.18 hits 1 # glutamine--tRNA ligase
+path PWY-6624 fam0 1 fam-found 1 # salicylate glucosides biosynthesis III
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY-6762 fam0 1 fam-found 1 # salicylate glucosides biosynthesis IV
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY-6930 fam0 1 fam-found 1 # phenolic malonylglucosides biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-5342 fam0 1 fam-found 1 # ajugose biosynthesis I (galactinol-dependent)
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY-5343 fam0 1 fam-found 1 # ajugose biosynthesis II (galactinol-independent)
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY-7037 fam0 1 fam-found 1 # protein O-glycosylation (Neisseria)
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path COLANSYN-PWY fam0 9 fam-found 2 # colanic acid building blocks biosynthesis
+   1.1.1.22 hits 1 # UDP-glucose dehydrogenase
+   4.2.1.47 hits 1 # GDP-mannose 4,6-dehydratase
+path PWY-6626 fam0 3 fam-found 2 # cytidine-5'-diphosphate-glycerol biosynthesis
+   1.1.1.- hits 1 # 3-dehydroecdysone-3alpha-reductase
+   2.7.7.- hits 1 # glycerol-2-phosphate cytidylyltransfrase
+path PWY-8133 fam0 3 fam-found 2 # succinoglycan biosynthesis
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-7250 fam0 3 fam-found 1 # [2Fe-2S] iron-sulfur cluster biosynthesis
+   3.6.4.- hits 1 # non-chaperonin molecular chaperone ATPase
+path PWY-7885 fam0 5 fam-found 1 # phosphatidylinositol mannoside biosynthesis
+   2.4.1.346 hits 1 # phosphatidyl-myo-inositol dimannoside synthase
+path PWY-7411 fam0 5 fam-found 1 # phosphatidate biosynthesis (yeast)
+   2.3.1.15 hits 1 # glycerol-3-phosphate O-acyltransferase
+path PWY-6032 fam0 2 fam-found 1 # digitoxigenin biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY0-1264 fam0 3 fam-found 1 # biotin-carboxyl carrier protein assembly
+   6.3.4.15 hits 1 # biotin--[acetyl-CoA carboxylase] synthetase
+path PWY-8082 fam0 1 fam-found 1 # glycine lipid biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path SOPHOROSYLOXYDOCOSANOATE-SYN-PWY fam0 1 fam-found 1 # sophorolipid biosynthesis
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path LPSSYN-PWY fam0 18 fam-found 2 # superpathway of lipopolysaccharide biosynthesis
+   5.3.1.13 hits 1 # D-arabinose 5-phosphate isomerase
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY-6391 fam0 1 fam-found 1 # meso-butanediol biosynthesis I
+   1.1.1.- hits 1 # 3-dehydroecdysone-3alpha-reductase
+path P125-PWY fam0 2 fam-found 1 # superpathway of (R,R)-butanediol biosynthesis
+   2.2.1.6 hits 2 # acetolactate synthase
+path PWY-6383 fam0 2 fam-found 1 # mono-trans, poly-cis decaprenyl phosphate biosynthesis
+   3.6.1.- hits 1 # decaprenyl diphosphate phosphatase
+path PWY-7697 fam0 1 fam-found 1 # geranyl beta-primeveroside biosynthesis
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY-7621 fam0 1 fam-found 1 # autoinducer CAI-1 biosynthesis
+   1.1.1.- hits 1 # 3-dehydroecdysone-3alpha-reductase
+path PWY-7255 fam0 4 fam-found 1 # ergothioneine biosynthesis I (bacteria)
+   1.14.99.50 hits 1 # hercynine oxygenase (gamma-glutamyl-hercynylcysteine sulfoxide-forming)
+path PWY-7468 fam0 1 fam-found 1 # benzoyl-beta-D-glucopyranose biosynthesis
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY-6673 fam0 2 fam-found 1 # caffeoylglucarate biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-4421 fam0 1 fam-found 1 # curcumin glucoside biosynthesis
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY18C3-21 fam0 1 fam-found 1 # phenylpropanoid volatiles glycoconjugation (tomato)
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY18C3-25 fam0 2 fam-found 1 # superpathway of methylsalicylate metabolism
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY-6310 fam0 1 fam-found 1 # aloesone biosynthesis II
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-6312 fam0 2 fam-found 1 # barbaloin biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-7563 fam0 2 fam-found 1 # bassianin and desmethylbassianin biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-7696 fam0 1 fam-found 1 # citreoisocoumarin and bikisocoumarin biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-8117 fam0 2 fam-found 1 # colibactin biosynthesis
+   2.7.7.- hits 1 # glycerol-2-phosphate cytidylyltransfrase
+path PWY-7672 fam0 2 fam-found 1 # fusaric acid biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-7670 fam0 2 fam-found 1 # fusaridione A biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-7702 fam0 2 fam-found 1 # sch210971 and sch210972 biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-7989 fam0 2 fam-found 1 # acinetoferrin biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-7571 fam0 4 fam-found 1 # ferrichrome A biosynthesis
+   3.5.1.- hits 1 # N-hydroxyornithine acylase
+path PWY-7987 fam0 2 fam-found 1 # vanchrobactin biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-6407 fam0 1 fam-found 1 # yersiniabactin biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-5379 fam0 1 fam-found 1 # B series fagopyritols biosynthesis
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY-7907 fam0 2 fam-found 1 # (2S,3E)-2-amino-4-methoxy-but-3-enoate biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-7540 fam0 2 fam-found 1 # aflatrem biosynthesis
+   2.5.1.- hits 1 # aminopropylcadaverine synthase
+path PWY-7531 fam0 2 fam-found 1 # mannojirimycin biosynthesis
+   1.1.1.- hits 1 # 3-dehydroecdysone-3alpha-reductase
+path PWY-7493 fam0 2 fam-found 1 # paxilline and diprenylpaxilline biosynthesis
+   2.5.1.- hits 1 # aminopropylcadaverine synthase
+path PWY-7954 fam0 2 fam-found 1 # tabtoxinine-beta-lactam biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-5188 fam0 5 fam-found 1 # tetrapyrrole biosynthesis I (from glutamate)
+   4.2.1.24 hits 2 # porphobilinogen synthase
+path PWY-6146 fam0 20 fam-found 1 # Methanobacterium thermoautotrophicum biosynthetic metabolism
+   6.4.1.1 hits 1 # pyruvate carboxylase
+path PWY-6130 fam0 2 fam-found 1 # glycerol degradation III
+   1.1.1.202 hits 1 # 1,3-propanediol dehydrogenase
+path PWY-7013 fam0 5 fam-found 1 # (S)-propane-1,2-diol degradation
+   2.3.1.222 hits 1 # phosphate propanoyltransferase
+path PWY0-1280 fam0 2 fam-found 1 # ethylene glycol degradation
+   1.1.1.77 hits 1 # glycolaldehyde reductase
+path PWY0-1315 fam0 1 fam-found 1 # L-lactaldehyde degradation (anaerobic)
+   1.1.1.77 hits 1 # glycolaldehyde reductase
+path PWY-5453 fam0 2 fam-found 1 # methylglyoxal degradation III
+   1.1.1.- hits 1 # 3-dehydroecdysone-3alpha-reductase
+path PWY-5177 fam0 4 fam-found 1 # glutaryl-CoA degradation
+   4.2.1.150 hits 1 # (S)-3-hydroxybutanoyl-CoA hydro-lyase (crotonoyl-CoA-forming)
+path PYRUVDEHYD-PWY fam0 3 fam-found 1 # pyruvate decarboxylation to acetyl CoA I
+   1.8.1.4 hits 2 # lipoate acetyltransferase N6-(dihydrolipoyl)lysine:NAD+ oxidoreductase
+path PWY-6502 fam0 2 fam-found 1 # 8-oxo-(d)GTP detoxification I
+   3.6.1.- hits 1 # decaprenyl diphosphate phosphatase
+path PWY-7389 fam0 8 fam-found 1 # superpathway of anaerobic energy metabolism (invertebrates)
+   1.1.1.38 hits 1 # NAD+-dependent malate dehydrogenase
+path PWY-241 fam0 4 fam-found 1 # C4 photosynthetic carbon assimilation cycle, NADP-ME type
+   2.7.9.1 hits 1 # pyruvate orthophosphate dikinase
+path PWY-7892 fam0 4 fam-found 1 # tRNA-uridine 2-thiolation and selenation (bacteria)
+   2.8.1.13 hits 1 # tRNA-specific 2-thiouridylase
+path PWY-7800 fam0 5 fam-found 1 # Ac/N-end rule pathway
+   3.4.11.18 hits 1 # methionine aminopeptidase
+path PWY-7679 fam0 1 fam-found 1 # anthocyanidin acylglucoside and acylsambubioside biosynthesis
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-5286 fam0 1 fam-found 1 # anthocyanidin sophoroside metabolism
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY-2881 fam0 1 fam-found 1 # cytokinins 7-N-glucoside biosynthesis
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY-2901 fam0 1 fam-found 1 # cytokinins 9-N-glucoside biosynthesis
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY-83 fam0 1 fam-found 1 # monolignol glucosides biosynthesis
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY18C3-11 fam0 1 fam-found 1 # tetraacylsucrose biosynthesis (Solanum)
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY18C3-10 fam0 1 fam-found 1 # triacylsucrose biosynthesis (Solanum)
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY0-781 fam0 24 fam-found 4 # aspartate superpathway
+   2.5.1.72 hits 1 # quinolinate synthase
+   2.4.2.19 hits 1 # quinolinate phosphoribosyltransferase (decarboxylating)
+   1.17.1.8 hits 1 # 4-hydroxy-tetrahydrodipicolinate reductase
+   2.1.1.14 hits 1 # cobalamin-independent homocysteine transmethylase
+path ARGSYN-PWY fam0 8 fam-found 1 # L-arginine biosynthesis I (via L-ornithine)
+   2.3.1.1 hits 1 # N-acetylglutamate synthase
+path PWY-5265 fam0 16 fam-found 1 # peptidoglycan biosynthesis II (staphylococci)
+   2.5.1.7 hits 1 # UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+path PWY18C3-12 fam0 1 fam-found 1 # superpathway of acylsucrose biosynthesis (cultivated tomato)
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY18C3-17 fam0 1 fam-found 1 # superpathway of acylsucrose biosynthesis (wild tomato)
+   2.3.1.- hits 1 # pyoluteorin synthase
+path PWY-5405 fam0 2 fam-found 1 # superpathway of betalain biosynthesis
+   2.4.1.- hits 2 # brassinolide 23-O-glucosyltransferase
+path PWY-6947 fam0 23 fam-found 3 # superpathway of cholesterol degradation II (cholesterol dehydrogenase)
+   1.3.99.- hits 1 # peroxisomal acyl-coenzyme A oxidase
+   2.3.1.- hits 1 # pyoluteorin synthase
+   1.1.1.- hits 1 # 3-dehydroecdysone-3alpha-reductase
+path ALL-CHORISMATE-PWY fam0 52 fam-found 8 # superpathway of chorismate metabolism
+   4.1.3.27 hits 1 # anthranilate synthase
+   2.4.2.18 hits 1 # anthranilate phosphoribosyl transferase
+   5.3.1.24 hits 2 # phosphoribosylanthranilate isomerase
+   4.1.1.48 hits 1 # indole-3-glycerol phosphate synthase
+   2.1.1.163 hits 2 # demethylmenaquinone methyltransferase
+   2.6.1.85 hits 1 # 4-amino-4-deoxychorismate synthase
+   1.5.1.3 hits 1 # dihydrofolate reductase
+   4.1.1.98 hits 1 # 3-octaprenyl-4-hydroxybenzoate decarboxylase
+path PWY-6901 fam0 1 fam-found 1 # superpathway of glucose and xylose degradation
+   1.2.1.12 hits 1 # glyceraldehyde-3-phosphate dehydrogenase
+path HEXITOLDEGSUPER-PWY fam0 15 fam-found 3 # superpathway of hexitol degradation (bacteria)
+   2.7.1.11 hits 1 # 6-phosphofructokinase
+   1.2.1.12 hits 1 # glyceraldehyde-3-phosphate dehydrogenase
+   2.7.1.40 hits 1 # pyruvate kinase
+path PRPP-PWY fam0 37 fam-found 5 # superpathway of histidine, purine, and pyrimidine biosynthesis
+   6.3.5.3 hits 2 # phosphoribosylformylglycinamide synthetase
+   6.3.2.6 hits 1 # phosphoribosylaminoimidazole-succinocarboxamide synthase
+   6.3.5.2 hits 2 # xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming)
+   6.3.4.4 hits 1 # adenylosuccinate synthase
+   4.2.1.19 hits 1 # imidazoleglycerol-phosphate dehydratase
+path PWY-5850 fam0 2 fam-found 1 # superpathway of menaquinol-6 biosynthesis
+   2.1.1.163 hits 2 # demethylmenaquinone methyltransferase
+path PWY-7342 fam0 2 fam-found 1 # superpathway of nicotine biosynthesis
+   2.4.2.19 hits 1 # quinolinate phosphoribosyltransferase (decarboxylating)
+path PWY0-166 fam0 7 fam-found 1 # superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)
+   3.5.4.13 hits 1 # dCTP deaminase
+path PWY-7392 fam0 11 fam-found 3 # taxadiene biosynthesis (engineered)
+   1.1.1.267 hits 1 # 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+   2.7.7.60 hits 1 # 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+   5.3.3.2 hits 1 # isopentenyl-diphosphate delta-isomerase
+path PWY-6897 fam0 5 fam-found 2 # thiamine diphosphate salvage II
+   2.7.1.50 hits 1 # hydroxyethylthiazole kinase
+   2.7.1.49 hits 1 # hydroxymethylpyrimidine kinase
+path PWY-4821 fam0 2 fam-found 1 # UDP-alpha-D-xylose biosynthesis
+   1.1.1.22 hits 1 # UDP-glucose dehydrogenase

@@ -1,0 +1,482 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+AFKNNLHP_00001	CDS	2115	rbn	3.1.26.11		Ribonuclease BN
+AFKNNLHP_00002	CDS	435	glpE_1	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+AFKNNLHP_00003	CDS	777	fieF		COG0053	Ferrous-iron efflux pump FieF
+AFKNNLHP_00004	CDS	1167	aspC	2.6.1.1		Aspartate aminotransferase
+AFKNNLHP_00005	CDS	588				hypothetical protein
+AFKNNLHP_00006	CDS	531				hypothetical protein
+AFKNNLHP_00007	CDS	117				hypothetical protein
+AFKNNLHP_00008	CDS	1470	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+AFKNNLHP_00009	CDS	1392	nhaD			Na(+)/H(+) antiporter NhaD
+AFKNNLHP_00010	CDS	624	rhtB		COG1280	Homoserine/homoserine lactone efflux protein
+AFKNNLHP_00011	CDS	1536	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+AFKNNLHP_00012	CDS	543				hypothetical protein
+AFKNNLHP_00013	CDS	759				hypothetical protein
+AFKNNLHP_00014	CDS	594	rluE	5.4.99.20	COG1187	Ribosomal large subunit pseudouridine synthase E
+AFKNNLHP_00015	CDS	1707	recD2_1	3.6.4.12		ATP-dependent RecD-like DNA helicase
+AFKNNLHP_00016	CDS	816				hypothetical protein
+AFKNNLHP_00017	CDS	468				hypothetical protein
+AFKNNLHP_00018	CDS	963				hypothetical protein
+AFKNNLHP_00019	CDS	318				hypothetical protein
+AFKNNLHP_00020	CDS	285				hypothetical protein
+AFKNNLHP_00021	CDS	642				hypothetical protein
+AFKNNLHP_00022	CDS	444				hypothetical protein
+AFKNNLHP_00023	CDS	612				hypothetical protein
+AFKNNLHP_00024	CDS	2514	hrpB	3.6.4.13	COG1643	ATP-dependent RNA helicase HrpB
+AFKNNLHP_00025	CDS	777				hypothetical protein
+AFKNNLHP_00026	CDS	894	cntI			Pseudopaline exporter CntI
+AFKNNLHP_00027	CDS	1329				hypothetical protein
+AFKNNLHP_00028	CDS	570				hypothetical protein
+AFKNNLHP_00029	CDS	528				hypothetical protein
+AFKNNLHP_00030	CDS	495				hypothetical protein
+AFKNNLHP_00031	CDS	1065				hypothetical protein
+AFKNNLHP_00032	CDS	705				hypothetical protein
+AFKNNLHP_00033	CDS	420				hypothetical protein
+AFKNNLHP_00034	CDS	1236	gltP		COG1301	Proton/glutamate-aspartate symporter
+AFKNNLHP_00035	CDS	744	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+AFKNNLHP_00036	CDS	849				hypothetical protein
+AFKNNLHP_00037	CDS	693	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+AFKNNLHP_00038	CDS	756	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+AFKNNLHP_00039	CDS	279				hypothetical protein
+AFKNNLHP_00040	CDS	108				hypothetical protein
+AFKNNLHP_00041	CDS	243	ppiC_1	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase C
+AFKNNLHP_00042	CDS	1371	lpdA	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+AFKNNLHP_00043	CDS	651	yliI_1	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+AFKNNLHP_00044	CDS	480	yliI_2	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+AFKNNLHP_00045	CDS	207				hypothetical protein
+AFKNNLHP_00046	CDS	291				hypothetical protein
+AFKNNLHP_00047	CDS	699	sfsA		COG1489	Sugar fermentation stimulation protein A
+AFKNNLHP_00048	CDS	1173				hypothetical protein
+AFKNNLHP_00049	CDS	486	greA		COG0782	Transcription elongation factor GreA
+AFKNNLHP_00050	CDS	768	yfcA		COG0730	putative membrane transporter protein YfcA
+AFKNNLHP_00051	CDS	912	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+AFKNNLHP_00052	CDS	1206	sstT		COG3633	Serine/threonine transporter SstT
+AFKNNLHP_00053	CDS	1239				L-lactate transporter
+AFKNNLHP_00054	CDS	1209	pdeB_1	3.1.4.52		Cyclic di-GMP phosphodiesterase PdeB
+AFKNNLHP_00055	CDS	1356				hypothetical protein
+AFKNNLHP_00056	CDS	408				hypothetical protein
+AFKNNLHP_00057	CDS	690	yueD	1.1.1.320		Benzil reductase ((S)-benzoin forming)
+AFKNNLHP_00058	CDS	312				hypothetical protein
+AFKNNLHP_00059	CDS	1173				hypothetical protein
+AFKNNLHP_00060	CDS	1836				hypothetical protein
+AFKNNLHP_00061	CDS	645				hypothetical protein
+AFKNNLHP_00062	CDS	576				hypothetical protein
+AFKNNLHP_00063	CDS	465	pdxH_1	1.4.3.5	COG0259	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+AFKNNLHP_00064	CDS	222	pdxH_2	1.4.3.5	COG0259	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+AFKNNLHP_00065	CDS	339				hypothetical protein
+AFKNNLHP_00066	CDS	861				hypothetical protein
+AFKNNLHP_00067	CDS	1551			COG1292	Glycine betaine transporter 1
+AFKNNLHP_00068	CDS	687	bioA_1	2.6.1.62	COG0161	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+AFKNNLHP_00069	CDS	552	bioA_2	2.6.1.62	COG0161	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+AFKNNLHP_00070	CDS	1050				hypothetical protein
+AFKNNLHP_00071	CDS	393				hypothetical protein
+AFKNNLHP_00072	CDS	2814	uvrA			UvrABC system protein A
+AFKNNLHP_00073	CDS	2427	acn	4.2.1.3	COG1048	Aconitate hydratase A
+AFKNNLHP_00074	CDS	735				hypothetical protein
+AFKNNLHP_00075	CDS	783	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+AFKNNLHP_00076	CDS	1797	speA	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase
+AFKNNLHP_00077	CDS	1245	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+AFKNNLHP_00078	CDS	567	tmk	2.7.4.9	COG0125	Thymidylate kinase
+AFKNNLHP_00079	CDS	504	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+AFKNNLHP_00080	CDS	600	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+AFKNNLHP_00081	CDS	642				hypothetical protein
+AFKNNLHP_00082	CDS	645				hypothetical protein
+AFKNNLHP_00083	CDS	450	rplI			50S ribosomal protein L9
+AFKNNLHP_00084	CDS	537	hslV	3.4.25.2	COG5405	ATP-dependent protease subunit HslV
+AFKNNLHP_00085	CDS	1329	clpY		COG1220	ATP-dependent protease ATPase subunit ClpY
+AFKNNLHP_00086	CDS	306				hypothetical protein
+AFKNNLHP_00087	CDS	585	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+AFKNNLHP_00088	CDS	1410	mltD	4.2.2.-	COG0741	Membrane-bound lytic murein transglycosylase D
+AFKNNLHP_00089	CDS	807	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+AFKNNLHP_00090	CDS	573	hisB	4.2.1.19		Imidazoleglycerol-phosphate dehydratase
+AFKNNLHP_00091	CDS	498		3.1.3.103	COG1778	2-keto-3-deoxy-D-glycero-D-galacto-9-phosphonononic acid phosphatase
+AFKNNLHP_00092	CDS	531				hypothetical protein
+AFKNNLHP_00093	CDS	483	lptA			Lipopolysaccharide export system protein LptA
+AFKNNLHP_00094	CDS	618	engB		COG0218	putative GTP-binding protein EngB
+AFKNNLHP_00095	CDS	462	argA	2.3.1.1		Amino-acid acetyltransferase
+AFKNNLHP_00096	CDS	2856	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+AFKNNLHP_00097	CDS	1668	ttgB			Toluene efflux pump membrane transporter TtgB
+AFKNNLHP_00098	CDS	1524	mdtB			Multidrug resistance protein MdtB
+AFKNNLHP_00099	CDS	768	czcB			Cobalt-zinc-cadmium resistance protein CzcB
+AFKNNLHP_00100	CDS	1344				hypothetical protein
+AFKNNLHP_00101	CDS	102				hypothetical protein
+AFKNNLHP_00102	CDS	399	aer		COG0840	Aerotaxis receptor
+AFKNNLHP_00103	CDS	2211				hypothetical protein
+AFKNNLHP_00104	CDS	732	fliP		COG1338	Flagellar biosynthetic protein FliP
+AFKNNLHP_00105	CDS	1779	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+AFKNNLHP_00106	CDS	321				hypothetical protein
+AFKNNLHP_00107	CDS	300				hypothetical protein
+AFKNNLHP_00108	CDS	2097				hypothetical protein
+AFKNNLHP_00109	CDS	375	fliW			Flagellar assembly factor FliW
+AFKNNLHP_00110	CDS	354				hypothetical protein
+AFKNNLHP_00111	CDS	2304	recD2_2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+AFKNNLHP_00112	CDS	1464				hypothetical protein
+AFKNNLHP_00113	CDS	1410	ftsA		COG0849	Cell division protein FtsA
+AFKNNLHP_00114	CDS	1134	ftsZ			Cell division protein FtsZ
+AFKNNLHP_00115	CDS	381	hspR		COG0789	Putative heat shock protein HspR
+AFKNNLHP_00116	CDS	894	cbpA		COG2214	Curved DNA-binding protein
+AFKNNLHP_00117	CDS	102				hypothetical protein
+AFKNNLHP_00118	CDS	1989				hypothetical protein
+AFKNNLHP_00119	CDS	333				hypothetical protein
+AFKNNLHP_00120	CDS	1170	mnmC		COG0665	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+AFKNNLHP_00121	CDS	270				hypothetical protein
+AFKNNLHP_00122	CDS	348				hypothetical protein
+AFKNNLHP_00123	CDS	582				hypothetical protein
+AFKNNLHP_00124	CDS	456	sodN	1.15.1.1		Superoxide dismutase [Ni]
+AFKNNLHP_00125	CDS	240				hypothetical protein
+AFKNNLHP_00126	CDS	579	sodB	1.15.1.1	COG0605	Superoxide dismutase [Fe]
+AFKNNLHP_00127	CDS	297				hypothetical protein
+AFKNNLHP_00128	CDS	942	mdh	1.1.1.37		Malate dehydrogenase
+AFKNNLHP_00129	CDS	1119				hypothetical protein
+AFKNNLHP_00130	CDS	2193	icd	1.1.1.42	COG2838	Isocitrate dehydrogenase [NADP]
+AFKNNLHP_00131	CDS	1122	mltG	4.2.2.-		Endolytic murein transglycosylase
+AFKNNLHP_00132	CDS	2823				hypothetical protein
+AFKNNLHP_00133	CDS	1206	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+AFKNNLHP_00134	CDS	1479	secA_1		COG0653	Protein translocase subunit SecA
+AFKNNLHP_00135	CDS	735	secA_2		COG0653	Protein translocase subunit SecA
+AFKNNLHP_00136	CDS	528	lolA			Outer-membrane lipoprotein carrier protein
+AFKNNLHP_00137	CDS	321				hypothetical protein
+AFKNNLHP_00138	CDS	501				hypothetical protein
+AFKNNLHP_00139	CDS	2055	mcp4		COG0840	Methyl-accepting chemotaxis protein 4
+AFKNNLHP_00140	CDS	201				hypothetical protein
+AFKNNLHP_00141	CDS	333				hypothetical protein
+AFKNNLHP_00142	CDS	2256	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+AFKNNLHP_00143	CDS	1095	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase 2
+AFKNNLHP_00144	CDS	240				hypothetical protein
+AFKNNLHP_00145	CDS	657	cynT	4.2.1.1	COG0288	Carbonic anhydrase 1
+AFKNNLHP_00146	CDS	336				hypothetical protein
+AFKNNLHP_00147	CDS	1062	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+AFKNNLHP_00148	CDS	876	sseA	2.8.1.2	COG2897	3-mercaptopyruvate sulfurtransferase
+AFKNNLHP_00149	CDS	1989				hypothetical protein
+AFKNNLHP_00150	CDS	1566				hypothetical protein
+AFKNNLHP_00151	CDS	615				hypothetical protein
+AFKNNLHP_00152	CDS	1314	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+AFKNNLHP_00153	CDS	243				hypothetical protein
+AFKNNLHP_00154	CDS	1170	nusA		COG0195	Transcription termination/antitermination protein NusA
+AFKNNLHP_00155	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+AFKNNLHP_00156	CDS	288				hypothetical protein
+AFKNNLHP_00157	CDS	411				hypothetical protein
+AFKNNLHP_00158	CDS	708				hypothetical protein
+AFKNNLHP_00159	CDS	795				hypothetical protein
+AFKNNLHP_00160	CDS	780	rhaR			HTH-type transcriptional activator RhaR
+AFKNNLHP_00161	CDS	567				hypothetical protein
+AFKNNLHP_00162	CDS	366				hypothetical protein
+AFKNNLHP_00163	CDS	1005	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AFKNNLHP_00164	CDS	1581				hypothetical protein
+AFKNNLHP_00165	CDS	1008	futA1_1			Iron uptake protein A1
+AFKNNLHP_00166	CDS	261	rpsR		COG0238	30S ribosomal protein S18
+AFKNNLHP_00167	CDS	552	ssb		COG0629	Single-stranded DNA-binding protein
+AFKNNLHP_00168	CDS	354	rpsF		COG0360	30S ribosomal protein S6
+AFKNNLHP_00169	CDS	981			COG1466	Protein
+AFKNNLHP_00170	CDS	1851	rnr	3.1.13.1	COG0557	Ribonuclease R
+AFKNNLHP_00171	CDS	756				hypothetical protein
+AFKNNLHP_00172	CDS	627				hypothetical protein
+AFKNNLHP_00173	CDS	1428	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+AFKNNLHP_00174	CDS	1023	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+AFKNNLHP_00175	CDS	1110				hypothetical protein
+AFKNNLHP_00176	CDS	1023	futA1_2			Iron uptake protein A1
+AFKNNLHP_00177	CDS	1638				hypothetical protein
+AFKNNLHP_00178	CDS	1044	fbpC2	7.2.2.7	COG3842	Fe(3+) ions import ATP-binding protein FbpC 2
+AFKNNLHP_00179	CDS	927				hypothetical protein
+AFKNNLHP_00180	CDS	1392				hypothetical protein
+AFKNNLHP_00181	CDS	768				hypothetical protein
+AFKNNLHP_00182	CDS	1188	nhaA		COG3004	Na(+)/H(+) antiporter NhaA
+AFKNNLHP_00183	CDS	1308	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+AFKNNLHP_00184	CDS	582				hypothetical protein
+AFKNNLHP_00185	CDS	1131	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+AFKNNLHP_00186	CDS	1428				hypothetical protein
+AFKNNLHP_00187	CDS	1125	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+AFKNNLHP_00188	CDS	588				hypothetical protein
+AFKNNLHP_00189	CDS	291	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+AFKNNLHP_00190	CDS	1020				hypothetical protein
+AFKNNLHP_00191	CDS	1353	aroH	2.5.1.54	COG3200	Phospho-2-dehydro-3-deoxyheptonate aldolase
+AFKNNLHP_00192	CDS	996	tal	2.2.1.2		Transaldolase
+AFKNNLHP_00193	CDS	402	SERB_1	3.1.3.3	COG0560	Phosphoserine phosphatase
+AFKNNLHP_00194	CDS	237	SERB_2	3.1.3.3	COG0560	Phosphoserine phosphatase
+AFKNNLHP_00195	CDS	378	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+AFKNNLHP_00196	CDS	234				hypothetical protein
+AFKNNLHP_00197	CDS	1137				hypothetical protein
+AFKNNLHP_00198	CDS	345	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+AFKNNLHP_00199	CDS	921	nikB		COG0601	Nickel transport system permease protein NikB
+AFKNNLHP_00200	CDS	819	panC	6.3.2.1	COG0414	Pantothenate synthetase
+AFKNNLHP_00201	CDS	1353	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+AFKNNLHP_00202	CDS	993	tilS	6.3.4.19		tRNA(Ile)-lysidine synthase
+AFKNNLHP_00203	CDS	270				hypothetical protein
+AFKNNLHP_00204	CDS	357	fliS			Flagellar secretion chaperone FliS
+AFKNNLHP_00205	CDS	1857				hypothetical protein
+AFKNNLHP_00206	CDS	2613				hypothetical protein
+AFKNNLHP_00207	CDS	621	flgH			Flagellar L-ring protein
+AFKNNLHP_00208	CDS	429				hypothetical protein
+AFKNNLHP_00209	CDS	528				hypothetical protein
+AFKNNLHP_00210	CDS	495				hypothetical protein
+AFKNNLHP_00211	CDS	405				hypothetical protein
+AFKNNLHP_00212	CDS	261				hypothetical protein
+AFKNNLHP_00213	CDS	1206				hypothetical protein
+AFKNNLHP_00214	CDS	1071	flgI			Flagellar P-ring protein
+AFKNNLHP_00215	CDS	1101	fliM		COG1868	Flagellar motor switch protein FliM
+AFKNNLHP_00216	CDS	1020	pyrC	3.5.2.3	COG0418	Dihydroorotase
+AFKNNLHP_00217	CDS	339	glnB_1		COG0347	Nitrogen regulatory protein P-II
+AFKNNLHP_00218	CDS	1188	nrgA			Ammonium transporter
+AFKNNLHP_00219	CDS	339	glnB_2		COG0347	Nitrogen regulatory protein P-II
+AFKNNLHP_00220	CDS	1215	amtB			Ammonia channel
+AFKNNLHP_00221	CDS	858				hypothetical protein
+AFKNNLHP_00222	CDS	759				hypothetical protein
+AFKNNLHP_00223	CDS	2529	glnD	2.7.7.59		Bifunctional uridylyltransferase/uridylyl-removing enzyme
+AFKNNLHP_00224	CDS	681	mprA_1		COG0745	Response regulator MprA
+AFKNNLHP_00225	CDS	1707				hypothetical protein
+AFKNNLHP_00226	CDS	2091	fyuA_1		COG1629	Pesticin receptor
+AFKNNLHP_00227	CDS	3477	aas	6.2.1.20		Bifunctional protein Aas
+AFKNNLHP_00228	CDS	642				hypothetical protein
+AFKNNLHP_00229	CDS	570				hypothetical protein
+AFKNNLHP_00230	CDS	675				hypothetical protein
+AFKNNLHP_00231	CDS	429				hypothetical protein
+AFKNNLHP_00232	CDS	1224				hypothetical protein
+AFKNNLHP_00233	CDS	690	czcR_1			Transcriptional activator protein CzcR
+AFKNNLHP_00234	CDS	822				hypothetical protein
+AFKNNLHP_00235	CDS	135				hypothetical protein
+AFKNNLHP_00236	CDS	888	rarD		COG2962	Protein RarD
+AFKNNLHP_00237	CDS	1764	arsA	7.3.2.7		Arsenical pump-driving ATPase
+AFKNNLHP_00238	CDS	324	arsD			Arsenical resistance operon trans-acting repressor ArsD
+AFKNNLHP_00239	CDS	228				hypothetical protein
+AFKNNLHP_00240	CDS	384				hypothetical protein
+AFKNNLHP_00241	CDS	702	dsbD_1	1.8.1.8		Thiol:disulfide interchange protein DsbD
+AFKNNLHP_00242	CDS	948				hypothetical protein
+AFKNNLHP_00243	CDS	402	arsC	1.20.4.4		Arsenate reductase
+AFKNNLHP_00244	CDS	1272	arsB		COG1055	Arsenical pump membrane protein
+AFKNNLHP_00245	CDS	354				hypothetical protein
+AFKNNLHP_00246	CDS	309	arsR1		COG0640	Arsenic resistance transcriptional regulator ArsR1
+AFKNNLHP_00247	CDS	675				hypothetical protein
+AFKNNLHP_00248	CDS	549				hypothetical protein
+AFKNNLHP_00249	CDS	213				hypothetical protein
+AFKNNLHP_00250	CDS	231				hypothetical protein
+AFKNNLHP_00251	CDS	1251				hypothetical protein
+AFKNNLHP_00252	CDS	1911	tkt	2.2.1.1		Transketolase
+AFKNNLHP_00253	CDS	2172				hypothetical protein
+AFKNNLHP_00254	CDS	17307				hypothetical protein
+AFKNNLHP_00255	CDS	261	rplC		COG0087	50S ribosomal protein L3
+AFKNNLHP_00256	CDS	234				hypothetical protein
+AFKNNLHP_00257	CDS	282				hypothetical protein
+AFKNNLHP_00258	CDS	828	rplB			50S ribosomal protein L2
+AFKNNLHP_00259	CDS	276	rpsS		COG0185	30S ribosomal protein S19
+AFKNNLHP_00260	CDS	333	rplV		COG0091	50S ribosomal protein L22
+AFKNNLHP_00261	CDS	702	rpsC		COG0092	30S ribosomal protein S3
+AFKNNLHP_00262	CDS	426	rplP		COG0197	50S ribosomal protein L16
+AFKNNLHP_00263	CDS	192				hypothetical protein
+AFKNNLHP_00264	CDS	252	rpsQ		COG0186	30S ribosomal protein S17
+AFKNNLHP_00265	CDS	369	rplN		COG0093	50S ribosomal protein L14
+AFKNNLHP_00266	CDS	240	rplX			50S ribosomal protein L24
+AFKNNLHP_00267	CDS	549	rplE		COG0094	50S ribosomal protein L5
+AFKNNLHP_00268	CDS	186	rpsZ			30S ribosomal protein S14 type Z
+AFKNNLHP_00269	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+AFKNNLHP_00270	CDS	534	rplF		COG0097	50S ribosomal protein L6
+AFKNNLHP_00271	CDS	363	rplR		COG0256	50S ribosomal protein L18
+AFKNNLHP_00272	CDS	444	rpsE		COG0098	30S ribosomal protein S5
+AFKNNLHP_00273	CDS	399				hypothetical protein
+AFKNNLHP_00274	CDS	1263	secY		COG0201	Protein translocase subunit SecY
+AFKNNLHP_00275	CDS	765	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+AFKNNLHP_00276	CDS	219	infA		COG0361	Translation initiation factor IF-1
+AFKNNLHP_00277	CDS	1260				hypothetical protein
+AFKNNLHP_00278	CDS	213				hypothetical protein
+AFKNNLHP_00279	CDS	666				hypothetical protein
+AFKNNLHP_00280	CDS	1164				hypothetical protein
+AFKNNLHP_00281	CDS	1752	aspS	6.1.1.23	COG0173	Aspartate--tRNA(Asp/Asn) ligase
+AFKNNLHP_00282	CDS	804				hypothetical protein
+AFKNNLHP_00283	CDS	1752				hypothetical protein
+AFKNNLHP_00284	CDS	585	adk	2.7.4.3		Adenylate kinase
+AFKNNLHP_00285	CDS	2574				hypothetical protein
+AFKNNLHP_00286	CDS	768	cinA			Putative competence-damage inducible protein
+AFKNNLHP_00287	CDS	669				hypothetical protein
+AFKNNLHP_00288	CDS	1023	alr-1	5.1.1.1	COG0787	Alanine racemase
+AFKNNLHP_00289	CDS	1833	uvrC		COG0322	UvrABC system protein C
+AFKNNLHP_00290	CDS	291				hypothetical protein
+AFKNNLHP_00291	CDS	891				hypothetical protein
+AFKNNLHP_00292	CDS	693				hypothetical protein
+AFKNNLHP_00293	CDS	333				hypothetical protein
+AFKNNLHP_00294	CDS	549	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+AFKNNLHP_00295	CDS	498				hypothetical protein
+AFKNNLHP_00296	CDS	495				hypothetical protein
+AFKNNLHP_00297	CDS	1692	lldP		COG1620	L-lactate permease
+AFKNNLHP_00298	CDS	1788	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+AFKNNLHP_00299	CDS	624				hypothetical protein
+AFKNNLHP_00300	CDS	2028	fyuA_2		COG1629	Pesticin receptor
+AFKNNLHP_00301	CDS	966				hypothetical protein
+AFKNNLHP_00302	CDS	915	fixL	2.7.13.3		Sensor protein FixL
+AFKNNLHP_00303	CDS	1497				hypothetical protein
+AFKNNLHP_00304	CDS	264				hypothetical protein
+AFKNNLHP_00305	CDS	1443				hypothetical protein
+AFKNNLHP_00306	CDS	867				hypothetical protein
+AFKNNLHP_00307	CDS	888				hypothetical protein
+AFKNNLHP_00308	CDS	1026	ccpA	1.11.1.5	COG1858	Cytochrome c551 peroxidase
+AFKNNLHP_00309	CDS	1494				hypothetical protein
+AFKNNLHP_00310	CDS	960	ccp	1.11.1.5	COG1858	Cytochrome c551 peroxidase
+AFKNNLHP_00311	CDS	681	mprA_2		COG0745	Response regulator MprA
+AFKNNLHP_00312	CDS	519				hypothetical protein
+AFKNNLHP_00313	CDS	1371				hypothetical protein
+AFKNNLHP_00314	CDS	873				hypothetical protein
+AFKNNLHP_00315	CDS	696				hypothetical protein
+AFKNNLHP_00316	CDS	786	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+AFKNNLHP_00317	CDS	579				hypothetical protein
+AFKNNLHP_00318	CDS	654	resA_1			Thiol-disulfide oxidoreductase ResA
+AFKNNLHP_00319	CDS	213				hypothetical protein
+AFKNNLHP_00320	CDS	261				hypothetical protein
+AFKNNLHP_00321	CDS	717				hypothetical protein
+AFKNNLHP_00322	CDS	1575				hypothetical protein
+AFKNNLHP_00323	CDS	393				hypothetical protein
+AFKNNLHP_00324	CDS	408				hypothetical protein
+AFKNNLHP_00325	CDS	588				hypothetical protein
+AFKNNLHP_00326	CDS	606	dauR		COG2964	Transcriptional regulator DauR
+AFKNNLHP_00327	CDS	351	cidA			Holin-like protein CidA
+AFKNNLHP_00328	CDS	714	yohK		COG1346	Inner membrane protein YohK
+AFKNNLHP_00329	CDS	1209				L-lactate transporter
+AFKNNLHP_00330	CDS	1182				hypothetical protein
+AFKNNLHP_00331	CDS	186				hypothetical protein
+AFKNNLHP_00332	CDS	2457	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+AFKNNLHP_00333	CDS	714	czcR_2			Transcriptional activator protein CzcR
+AFKNNLHP_00334	CDS	1431	shlB			Hemolysin transporter protein ShlB
+AFKNNLHP_00335	CDS	507				hypothetical protein
+AFKNNLHP_00336	CDS	1800				hypothetical protein
+AFKNNLHP_00337	CDS	450				hypothetical protein
+AFKNNLHP_00338	CDS	525	inlA_1		COG4886	Internalin A
+AFKNNLHP_00339	CDS	444				hypothetical protein
+AFKNNLHP_00340	CDS	576	inlA_2		COG4886	Internalin A
+AFKNNLHP_00341	CDS	849				hypothetical protein
+AFKNNLHP_00342	CDS	3483				hypothetical protein
+AFKNNLHP_00343	CDS	678	prpC	3.1.3.16	COG0631	Protein phosphatase PrpC
+AFKNNLHP_00344	CDS	864	pknD	2.7.11.1		Serine/threonine-protein kinase PknD
+AFKNNLHP_00345	CDS	525	hcpA		COG3157	Major exported protein
+AFKNNLHP_00346	CDS	2103	egtB	1.14.99.50		Hercynine oxygenase
+AFKNNLHP_00347	CDS	681				hypothetical protein
+AFKNNLHP_00348	CDS	1074				hypothetical protein
+AFKNNLHP_00349	CDS	393				hypothetical protein
+AFKNNLHP_00350	CDS	813				hypothetical protein
+AFKNNLHP_00351	CDS	585				hypothetical protein
+AFKNNLHP_00352	CDS	1968	fyuA_3		COG1629	Pesticin receptor
+AFKNNLHP_00353	CDS	873	rhaS			HTH-type transcriptional activator RhaS
+AFKNNLHP_00354	CDS	849				hypothetical protein
+AFKNNLHP_00355	CDS	948				hypothetical protein
+AFKNNLHP_00356	CDS	393				hypothetical protein
+AFKNNLHP_00357	CDS	2475				hypothetical protein
+AFKNNLHP_00358	CDS	555				hypothetical protein
+AFKNNLHP_00359	CDS	624				hypothetical protein
+AFKNNLHP_00360	CDS	810				hypothetical protein
+AFKNNLHP_00361	CDS	435				hypothetical protein
+AFKNNLHP_00362	CDS	1839				hypothetical protein
+AFKNNLHP_00363	CDS	624	fas6	3.2.2.-		Cytokinin riboside 5'-monophosphate phosphoribohydrolase
+AFKNNLHP_00364	CDS	1530	sasA_6	2.7.-.-		Adaptive-response sensory-kinase SasA
+AFKNNLHP_00365	CDS	684	arlR		COG0745	Response regulator ArlR
+AFKNNLHP_00366	CDS	957				hypothetical protein
+AFKNNLHP_00367	CDS	486				hypothetical protein
+AFKNNLHP_00368	CDS	1335	dctM		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+AFKNNLHP_00369	CDS	732	pxpA3	3.5.2.9	COG1540	5-oxoprolinase subunit A 3
+AFKNNLHP_00370	CDS	795				hypothetical protein
+AFKNNLHP_00371	CDS	1230	pdeB_2	3.1.4.52		Cyclic di-GMP phosphodiesterase PdeB
+AFKNNLHP_00372	CDS	633				hypothetical protein
+AFKNNLHP_00373	CDS	531	yohD		COG0586	Inner membrane protein YohD
+AFKNNLHP_00374	CDS	447				hypothetical protein
+AFKNNLHP_00375	CDS	675	cusR		COG0745	Transcriptional regulatory protein CusR
+AFKNNLHP_00376	CDS	1737	sasA_7	2.7.-.-		Adaptive-response sensory-kinase SasA
+AFKNNLHP_00377	CDS	906				hypothetical protein
+AFKNNLHP_00378	CDS	1194	dbpA	3.6.4.13	COG0513	ATP-dependent RNA helicase DbpA
+AFKNNLHP_00379	CDS	282	ppiC_2	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase C
+AFKNNLHP_00380	CDS	363				hypothetical protein
+AFKNNLHP_00381	CDS	591	ywrO	1.6.99.-	COG2249	General stress protein 14
+AFKNNLHP_00382	CDS	1230	mdtL			Multidrug resistance protein MdtL
+AFKNNLHP_00383	CDS	1143	yqhD	1.1.1.-	COG1979	Alcohol dehydrogenase YqhD
+AFKNNLHP_00384	rRNA	111				5S ribosomal RNA
+AFKNNLHP_00385	rRNA	2906				23S ribosomal RNA
+AFKNNLHP_00386	tRNA	76				tRNA-Ala(tgc)
+AFKNNLHP_00387	tRNA	77				tRNA-Ile(gat)
+AFKNNLHP_00388	rRNA	1515				16S ribosomal RNA
+AFKNNLHP_00389	CDS	696	pfs	3.2.2.30	COG0775	Aminodeoxyfutalosine nucleosidase
+AFKNNLHP_00390	CDS	957	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+AFKNNLHP_00391	CDS	576				hypothetical protein
+AFKNNLHP_00392	CDS	972	cpoB			Cell division coordinator CpoB
+AFKNNLHP_00393	CDS	549	pal			Peptidoglycan-associated lipoprotein
+AFKNNLHP_00394	CDS	357	cbiX	4.99.1.3		Sirohydrochlorin cobaltochelatase
+AFKNNLHP_00395	CDS	930		1.6.3.5	COG3380	Renalase
+AFKNNLHP_00396	CDS	273				hypothetical protein
+AFKNNLHP_00397	CDS	639	pdxH_3	1.4.3.5	COG0259	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+AFKNNLHP_00398	CDS	1293	ubiB	2.7.-.-		protein kinase UbiB
+AFKNNLHP_00399	CDS	243				hypothetical protein
+AFKNNLHP_00400	CDS	555	uvsE_1	3.-.-.-		UV DNA damage endonuclease
+AFKNNLHP_00401	CDS	345	uvsE_2	3.-.-.-		UV DNA damage endonuclease
+AFKNNLHP_00402	CDS	1269	tolB		COG0823	Tol-Pal system protein TolB
+AFKNNLHP_00403	CDS	738				hypothetical protein
+AFKNNLHP_00404	CDS	390	exbD		COG0848	Biopolymer transport protein ExbD
+AFKNNLHP_00405	CDS	561	exbB		COG0811	Biopolymer transport protein ExbB
+AFKNNLHP_00406	CDS	378	atpC			ATP synthase epsilon chain
+AFKNNLHP_00407	CDS	1395	atpD_1	7.1.2.2	COG0055	ATP synthase subunit beta
+AFKNNLHP_00408	CDS	888	atpG_1		COG0224	ATP synthase gamma chain
+AFKNNLHP_00409	CDS	1518	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+AFKNNLHP_00410	CDS	531	atpD_2			ATP synthase subunit delta
+AFKNNLHP_00411	CDS	516	atpF			ATP synthase subunit b
+AFKNNLHP_00412	CDS	423	atpG_2		COG0711	ATP synthase subunit b'
+AFKNNLHP_00413	CDS	876	parB		COG1475	putative chromosome-partitioning protein ParB
+AFKNNLHP_00414	CDS	777	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+AFKNNLHP_00415	CDS	636	birA	6.3.4.15		Bifunctional ligase/repressor BirA
+AFKNNLHP_00416	CDS	894				hypothetical protein
+AFKNNLHP_00417	CDS	1395	sasA_8	2.7.-.-		Adaptive-response sensory-kinase SasA
+AFKNNLHP_00418	CDS	921	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+AFKNNLHP_00419	CDS	765	proB	2.7.2.11	COG0263	Glutamate 5-kinase
+AFKNNLHP_00420	CDS	1110	obg	3.6.5.-		GTPase Obg
+AFKNNLHP_00421	CDS	255	rpmA		COG0211	50S ribosomal protein L27
+AFKNNLHP_00422	CDS	318	rplU		COG0261	50S ribosomal protein L21
+AFKNNLHP_00423	CDS	384	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+AFKNNLHP_00424	CDS	1635	dnaG	2.7.7.-	COG0358	DNA primase
+AFKNNLHP_00425	CDS	1050	lapB			Lipopolysaccharide assembly protein B
+AFKNNLHP_00426	CDS	435	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+AFKNNLHP_00427	CDS	678	rnc	3.1.26.3	COG0571	Ribonuclease 3
+AFKNNLHP_00428	CDS	2262	pctB		COG0840	Methyl-accepting chemotaxis protein PctB
+AFKNNLHP_00429	CDS	1680				hypothetical protein
+AFKNNLHP_00430	CDS	1383				hypothetical protein
+AFKNNLHP_00431	CDS	1911				hypothetical protein
+AFKNNLHP_00432	CDS	927				hypothetical protein
+AFKNNLHP_00433	CDS	210				hypothetical protein
+AFKNNLHP_00434	CDS	1005	mltB	4.2.2.-	COG2951	Membrane-bound lytic murein transglycosylase B
+AFKNNLHP_00435	CDS	429	bdbC			disulfide formation protein
+AFKNNLHP_00436	CDS	558	resA_2			Thiol-disulfide oxidoreductase ResA
+AFKNNLHP_00437	CDS	1206				hypothetical protein
+AFKNNLHP_00438	CDS	291				hypothetical protein
+AFKNNLHP_00439	CDS	468				hypothetical protein
+AFKNNLHP_00440	CDS	867	aaeA		COG1566	p-hydroxybenzoic acid efflux pump subunit AaeA
+AFKNNLHP_00441	CDS	201	aaeX			Protein AaeX
+AFKNNLHP_00442	CDS	2079	aaeB			p-hydroxybenzoic acid efflux pump subunit AaeB
+AFKNNLHP_00443	CDS	1431	ttgF			Toluene efflux pump outer membrane protein TtgF
+AFKNNLHP_00444	CDS	426	slyA			Transcriptional regulator SlyA
+AFKNNLHP_00445	CDS	750				hypothetical protein
+AFKNNLHP_00446	CDS	1119	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+AFKNNLHP_00447	CDS	669	cbbY	3.1.3.-	COG0637	Protein CbbY
+AFKNNLHP_00448	CDS	408				hypothetical protein
+AFKNNLHP_00449	CDS	573	yvdD		COG1611	LOG family protein YvdD
+AFKNNLHP_00450	CDS	2484				hypothetical protein
+AFKNNLHP_00451	CDS	576				hypothetical protein
+AFKNNLHP_00452	CDS	852				hypothetical protein
+AFKNNLHP_00453	CDS	711			COG0217	putative transcriptional regulatory protein
+AFKNNLHP_00454	CDS	2811	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+AFKNNLHP_00455	CDS	411	baeR		COG0745	Transcriptional regulatory protein BaeR
+AFKNNLHP_00456	CDS	1221	sasA_9	2.7.-.-		Adaptive-response sensory-kinase SasA
+AFKNNLHP_00457	CDS	426				hypothetical protein
+AFKNNLHP_00458	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+AFKNNLHP_00459	CDS	603				hypothetical protein
+AFKNNLHP_00460	CDS	933	hisC	2.6.1.9		Histidinol-phosphate aminotransferase
+AFKNNLHP_00461	CDS	603				hypothetical protein
+AFKNNLHP_00462	CDS	1752	dsbD_2	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+AFKNNLHP_00463	CDS	384	dsbD_3	1.8.1.8		Thiol:disulfide interchange protein DsbD
+AFKNNLHP_00464	CDS	357	glpE_2	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+AFKNNLHP_00465	CDS	228				hypothetical protein
+AFKNNLHP_00466	CDS	2505				hypothetical protein
+AFKNNLHP_00467	CDS	804	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+AFKNNLHP_00468	CDS	246				hypothetical protein
+AFKNNLHP_00469	CDS	1107				hypothetical protein
+AFKNNLHP_00470	CDS	1077				hypothetical protein
+AFKNNLHP_00471	CDS	288				hypothetical protein
+AFKNNLHP_00472	CDS	282				hypothetical protein
+AFKNNLHP_00473	CDS	1896	dnaK			Chaperone protein DnaK
+AFKNNLHP_00474	CDS	567	grpE			Protein GrpE
+AFKNNLHP_00475	CDS	789	hrcA			Heat-inducible transcription repressor HrcA
+AFKNNLHP_00476	CDS	945				hypothetical protein
+AFKNNLHP_00477	CDS	2124				hypothetical protein
+AFKNNLHP_00478	CDS	723	walR		COG0745	Transcriptional regulatory protein WalR
+AFKNNLHP_00479	CDS	2580	sasA_10	2.7.-.-		Adaptive-response sensory-kinase SasA
+AFKNNLHP_00480	CDS	723	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+AFKNNLHP_00481	CDS	780				hypothetical protein

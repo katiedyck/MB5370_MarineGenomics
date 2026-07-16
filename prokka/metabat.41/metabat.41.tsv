@@ -1,0 +1,748 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+BEKNHBDL_00001	CDS	852	pheT_1	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+BEKNHBDL_00002	CDS	723				hypothetical protein
+BEKNHBDL_00003	CDS	918				hypothetical protein
+BEKNHBDL_00004	CDS	501	tpx	1.11.1.15	COG2077	Thiol peroxidase
+BEKNHBDL_00005	CDS	210				hypothetical protein
+BEKNHBDL_00006	CDS	1776				hypothetical protein
+BEKNHBDL_00007	CDS	1704	pbpC		COG4953	Penicillin-binding protein 1C
+BEKNHBDL_00008	CDS	618				hypothetical protein
+BEKNHBDL_00009	CDS	1140	ald_1	1.2.99.10		4,4'-diapolycopene aldehyde oxidase
+BEKNHBDL_00010	CDS	417	ald_2	1.2.99.10		4,4'-diapolycopene aldehyde oxidase
+BEKNHBDL_00011	CDS	3507	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+BEKNHBDL_00012	CDS	933	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+BEKNHBDL_00013	CDS	1896		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+BEKNHBDL_00014	CDS	1137	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+BEKNHBDL_00015	CDS	741	ugpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase, cytoplasmic
+BEKNHBDL_00016	CDS	1671	ade	3.5.4.2	COG1001	Adenine deaminase
+BEKNHBDL_00017	CDS	225	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+BEKNHBDL_00018	CDS	210				hypothetical protein
+BEKNHBDL_00019	CDS	243				hypothetical protein
+BEKNHBDL_00020	CDS	1647	rcsC_4	2.7.13.3		Sensor histidine kinase RcsC
+BEKNHBDL_00021	CDS	1299	mtaD	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+BEKNHBDL_00022	CDS	813	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+BEKNHBDL_00023	CDS	879	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+BEKNHBDL_00024	CDS	402	eam	5.4.3.9	COG1509	Glutamate 2,3-aminomutase
+BEKNHBDL_00025	CDS	516	kamA	5.4.3.2		L-lysine 2,3-aminomutase
+BEKNHBDL_00026	CDS	453	hspA		COG0071	Spore protein SP21
+BEKNHBDL_00027	CDS	783	argE	3.5.1.16		Acetylornithine deacetylase
+BEKNHBDL_00028	CDS	555				hypothetical protein
+BEKNHBDL_00029	CDS	468	rhlB_1	3.6.4.13		ATP-dependent RNA helicase RhlB
+BEKNHBDL_00030	CDS	861	rhlB_2	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlB
+BEKNHBDL_00031	CDS	702	pepE	3.4.13.21	COG3340	Peptidase E
+BEKNHBDL_00032	CDS	711				hypothetical protein
+BEKNHBDL_00033	CDS	432				hypothetical protein
+BEKNHBDL_00034	CDS	1116	lon2_1	3.4.21.53	COG0466	Lon protease 2
+BEKNHBDL_00035	CDS	909	lon2_2	3.4.21.53	COG0466	Lon protease 2
+BEKNHBDL_00036	CDS	273	lon	3.4.21.53	COG0466	Lon protease
+BEKNHBDL_00037	CDS	771				hypothetical protein
+BEKNHBDL_00038	CDS	276				hypothetical protein
+BEKNHBDL_00039	CDS	687	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+BEKNHBDL_00040	CDS	567	gmhB	3.1.3.82	COG0241	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+BEKNHBDL_00041	CDS	1386	recD2_1	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+BEKNHBDL_00042	CDS	702	recD2_2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+BEKNHBDL_00043	CDS	429				hypothetical protein
+BEKNHBDL_00044	CDS	1113	ald_3	1.4.1.1		Alanine dehydrogenase
+BEKNHBDL_00045	CDS	741				hypothetical protein
+BEKNHBDL_00046	CDS	1995	tkt	2.2.1.1		Transketolase
+BEKNHBDL_00047	CDS	870				hypothetical protein
+BEKNHBDL_00048	CDS	1350	glnE_1		COG1391	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+BEKNHBDL_00049	CDS	1545	glnE_2		COG1391	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+BEKNHBDL_00050	CDS	2604	glnD		COG2844	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+BEKNHBDL_00051	CDS	339	glnB		COG0347	Nitrogen regulatory protein P-II
+BEKNHBDL_00052	CDS	642	nrgA_1			Ammonium transporter
+BEKNHBDL_00053	CDS	537	nrgA_2			Ammonium transporter
+BEKNHBDL_00054	CDS	420	glnA_1	6.3.1.2		Glutamine synthetase
+BEKNHBDL_00055	CDS	831	glnA_2	6.3.1.2	COG0174	Glutamine synthetase
+BEKNHBDL_00056	CDS	372	cpdR			Response regulator receiver protein CpdR
+BEKNHBDL_00057	CDS	1143				hypothetical protein
+BEKNHBDL_00058	tRNA	76				tRNA-Gly(tcc)
+BEKNHBDL_00059	tRNA	76				tRNA-Thr(tgt)
+BEKNHBDL_00060	CDS	2157	mcpU_1		COG0840	Methyl-accepting chemotaxis protein McpU
+BEKNHBDL_00061	CDS	255				hypothetical protein
+BEKNHBDL_00062	CDS	2379				hypothetical protein
+BEKNHBDL_00063	CDS	834	rstB	2.7.13.3		Sensor protein RstB
+BEKNHBDL_00064	CDS	441				hypothetical protein
+BEKNHBDL_00065	CDS	714	rstA		COG0745	Transcriptional regulatory protein RstA
+BEKNHBDL_00066	CDS	3129	bepG			Efflux pump membrane transporter BepG
+BEKNHBDL_00067	CDS	1227				hypothetical protein
+BEKNHBDL_00068	CDS	1416	oprM		COG1538	Outer membrane protein OprM
+BEKNHBDL_00069	CDS	879	benM			HTH-type transcriptional regulator BenM
+BEKNHBDL_00070	CDS	462				hypothetical protein
+BEKNHBDL_00071	CDS	342				hypothetical protein
+BEKNHBDL_00072	CDS	231				hypothetical protein
+BEKNHBDL_00073	CDS	234				hypothetical protein
+BEKNHBDL_00074	CDS	1236	htpX_1	3.4.24.-		Protease HtpX
+BEKNHBDL_00075	CDS	1728	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+BEKNHBDL_00076	CDS	486	pat	2.3.1.183	COG1247	Phosphinothricin N-acetyltransferase
+BEKNHBDL_00077	CDS	330				hypothetical protein
+BEKNHBDL_00078	CDS	483				hypothetical protein
+BEKNHBDL_00079	CDS	1239	hhaIM	2.1.1.37		Modification methylase HhaI
+BEKNHBDL_00080	CDS	375				hypothetical protein
+BEKNHBDL_00081	CDS	114				hypothetical protein
+BEKNHBDL_00082	CDS	834				hypothetical protein
+BEKNHBDL_00083	CDS	858				hypothetical protein
+BEKNHBDL_00084	CDS	696				hypothetical protein
+BEKNHBDL_00085	CDS	765				hypothetical protein
+BEKNHBDL_00086	CDS	537	npr	1.11.1.1	COG0446	NADH peroxidase
+BEKNHBDL_00087	CDS	771	noxE	1.6.99.3	COG0446	NADH oxidase
+BEKNHBDL_00088	CDS	1701	cdr	1.8.1.14		Coenzyme A disulfide reductase
+BEKNHBDL_00089	CDS	621				hypothetical protein
+BEKNHBDL_00090	CDS	399				hypothetical protein
+BEKNHBDL_00091	CDS	249				hypothetical protein
+BEKNHBDL_00092	CDS	369				hypothetical protein
+BEKNHBDL_00093	CDS	1032				hypothetical protein
+BEKNHBDL_00094	CDS	540	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+BEKNHBDL_00095	CDS	684	ftsE		COG2884	Cell division ATP-binding protein FtsE
+BEKNHBDL_00096	CDS	891	ftsX		COG2177	Cell division protein FtsX
+BEKNHBDL_00097	CDS	1389				hypothetical protein
+BEKNHBDL_00098	CDS	1332		3.4.21.-		putative CtpA-like serine protease
+BEKNHBDL_00099	CDS	699			COG1136	putative ABC transporter ATP-binding protein
+BEKNHBDL_00100	CDS	2508				hypothetical protein
+BEKNHBDL_00101	CDS	1158				hypothetical protein
+BEKNHBDL_00102	CDS	174				hypothetical protein
+BEKNHBDL_00103	CDS	456				hypothetical protein
+BEKNHBDL_00104	CDS	993	tycC			Tyrocidine synthase 3
+BEKNHBDL_00105	CDS	2124	lgrD			Linear gramicidin synthase subunit D
+BEKNHBDL_00106	CDS	645	rhtB		COG1280	Homoserine/homoserine lactone efflux protein
+BEKNHBDL_00107	CDS	795		4.2.1.150	COG1024	Crotonyl-CoA hydratase
+BEKNHBDL_00108	CDS	1569				hypothetical protein
+BEKNHBDL_00109	CDS	1278				hypothetical protein
+BEKNHBDL_00110	CDS	1419				hypothetical protein
+BEKNHBDL_00111	CDS	852	nfo	3.1.21.2	COG0648	Endonuclease 4
+BEKNHBDL_00112	CDS	2382				hypothetical protein
+BEKNHBDL_00113	CDS	1158	sdaA	4.3.1.17	COG1760	L-serine dehydratase 1
+BEKNHBDL_00114	CDS	795	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+BEKNHBDL_00115	CDS	450	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+BEKNHBDL_00116	CDS	1338		3.4.24.-	COG0612	putative zinc protease
+BEKNHBDL_00117	CDS	894	pnp_1	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+BEKNHBDL_00118	CDS	1236	pnp_2	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+BEKNHBDL_00119	CDS	270	rpsO			30S ribosomal protein S15
+BEKNHBDL_00120	CDS	906	truB	5.4.99.25		tRNA pseudouridine synthase B
+BEKNHBDL_00121	CDS	957	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+BEKNHBDL_00122	CDS	390	rbfA		COG0858	Ribosome-binding factor A
+BEKNHBDL_00123	CDS	849	infB_1			Translation initiation factor IF-2
+BEKNHBDL_00124	CDS	1119	infB_2			Translation initiation factor IF-2
+BEKNHBDL_00125	CDS	216				hypothetical protein
+BEKNHBDL_00126	CDS	639				hypothetical protein
+BEKNHBDL_00127	CDS	1275	nusA		COG0195	Transcription termination/antitermination protein NusA
+BEKNHBDL_00128	CDS	480	rimP		COG0779	Ribosome maturation factor RimP
+BEKNHBDL_00129	CDS	2424	pheT_2	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+BEKNHBDL_00130	CDS	1011	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+BEKNHBDL_00131	CDS	351	rplT		COG0292	50S ribosomal protein L20
+BEKNHBDL_00132	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+BEKNHBDL_00133	CDS	336	infC			Translation initiation factor IF-3
+BEKNHBDL_00134	CDS	483	tadA_1	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+BEKNHBDL_00135	CDS	561				hypothetical protein
+BEKNHBDL_00136	CDS	1056				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+BEKNHBDL_00137	CDS	597				hypothetical protein
+BEKNHBDL_00138	CDS	585				hypothetical protein
+BEKNHBDL_00139	CDS	201				hypothetical protein
+BEKNHBDL_00140	CDS	267				hypothetical protein
+BEKNHBDL_00141	CDS	573				hypothetical protein
+BEKNHBDL_00142	CDS	714				hypothetical protein
+BEKNHBDL_00143	CDS	444	aprB			Adenylylsulfate reductase subunit beta
+BEKNHBDL_00144	CDS	1311	aprA_1	1.8.99.2		Adenylylsulfate reductase subunit alpha
+BEKNHBDL_00145	CDS	729	aprA_2	1.8.99.2		Adenylylsulfate reductase subunit alpha
+BEKNHBDL_00146	CDS	729				hypothetical protein
+BEKNHBDL_00147	CDS	564				hypothetical protein
+BEKNHBDL_00148	CDS	2388				hypothetical protein
+BEKNHBDL_00149	CDS	1185				hypothetical protein
+BEKNHBDL_00150	CDS	360				hypothetical protein
+BEKNHBDL_00151	CDS	648		1.8.3.7	COG1262	Formylglycine-generating enzyme
+BEKNHBDL_00152	CDS	780				hypothetical protein
+BEKNHBDL_00153	CDS	312	rplU		COG0261	50S ribosomal protein L21
+BEKNHBDL_00154	CDS	255	rpmA		COG0211	50S ribosomal protein L27
+BEKNHBDL_00155	CDS	264	obg_1	3.6.5.-		GTPase Obg
+BEKNHBDL_00156	CDS	423	obg_2	3.6.5.-	COG0536	GTPase Obg
+BEKNHBDL_00157	CDS	1131	proB	2.7.2.11	COG0263	Glutamate 5-kinase
+BEKNHBDL_00158	CDS	1251	proA	1.2.1.41		Gamma-glutamyl phosphate reductase
+BEKNHBDL_00159	CDS	642	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+BEKNHBDL_00160	CDS	435	rsfS			Ribosomal silencing factor RsfS
+BEKNHBDL_00161	CDS	1533	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+BEKNHBDL_00162	CDS	510				hypothetical protein
+BEKNHBDL_00163	CDS	675				hypothetical protein
+BEKNHBDL_00164	CDS	1038				hypothetical protein
+BEKNHBDL_00165	CDS	843	cheR	2.1.1.80		Chemotaxis protein methyltransferase
+BEKNHBDL_00166	CDS	2151				hypothetical protein
+BEKNHBDL_00167	CDS	480	cheD_1	3.5.1.44	COG1871	Chemoreceptor glutamine deamidase CheD
+BEKNHBDL_00168	CDS	849				hypothetical protein
+BEKNHBDL_00169	CDS	432	cheY_1		COG0784	Chemotaxis protein CheY 
+BEKNHBDL_00170	CDS	462				hypothetical protein
+BEKNHBDL_00171	CDS	936	cheB_1	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase
+BEKNHBDL_00172	CDS	633				hypothetical protein
+BEKNHBDL_00173	CDS	837	rcsC_5	2.7.13.3		Sensor histidine kinase RcsC
+BEKNHBDL_00174	CDS	1533	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+BEKNHBDL_00175	CDS	192				hypothetical protein
+BEKNHBDL_00176	CDS	1947	cfiA	6.4.1.7	COG0511	2-oxoglutarate carboxylase large subunit
+BEKNHBDL_00177	CDS	360				hypothetical protein
+BEKNHBDL_00178	CDS	1164	nifS	2.8.1.7	COG1104	Cysteine desulfurase NifS
+BEKNHBDL_00179	CDS	831	nfuA			Fe/S biogenesis protein NfuA
+BEKNHBDL_00180	CDS	840				hypothetical protein
+BEKNHBDL_00181	CDS	807				hypothetical protein
+BEKNHBDL_00182	CDS	810				hypothetical protein
+BEKNHBDL_00183	CDS	420				hypothetical protein
+BEKNHBDL_00184	CDS	1083				hypothetical protein
+BEKNHBDL_00185	CDS	522	nudL	3.6.1.-		putative Nudix hydrolase NudL
+BEKNHBDL_00186	CDS	756				hypothetical protein
+BEKNHBDL_00187	CDS	771	fliY_1		COG0834	L-cystine-binding protein FliY
+BEKNHBDL_00188	CDS	672	artQ		COG0765	Arginine transport system permease protein ArtQ
+BEKNHBDL_00189	CDS	723	glnQ_1			Glutamine transport ATP-binding protein GlnQ
+BEKNHBDL_00190	CDS	1182				hypothetical protein
+BEKNHBDL_00191	CDS	807				hypothetical protein
+BEKNHBDL_00192	tRNA	74				tRNA-Gln(ctg)
+BEKNHBDL_00193	CDS	1395	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+BEKNHBDL_00194	CDS	645	ribB	4.1.99.12	COG0108	3,4-dihydroxy-2-butanone 4-phosphate synthase
+BEKNHBDL_00195	CDS	186	rpmF		COG0333	50S ribosomal protein L32
+BEKNHBDL_00196	CDS	231	acpP		COG0236	Acyl carrier protein
+BEKNHBDL_00197	CDS	351				hypothetical protein
+BEKNHBDL_00198	CDS	429	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+BEKNHBDL_00199	CDS	915	glyA_1	2.1.2.1		Serine hydroxymethyltransferase
+BEKNHBDL_00200	CDS	348	glyA_2	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+BEKNHBDL_00201	CDS	465	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+BEKNHBDL_00202	CDS	474	nrdR		COG1327	Transcriptional repressor NrdR
+BEKNHBDL_00203	CDS	213				hypothetical protein
+BEKNHBDL_00204	CDS	936	ribD		COG0117	Riboflavin biosynthesis protein RibD
+BEKNHBDL_00205	CDS	654	ribE	2.5.1.9		Riboflavin synthase
+BEKNHBDL_00206	CDS	1230	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+BEKNHBDL_00207	CDS	465	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+BEKNHBDL_00208	CDS	414	nusB		COG0781	Transcription antitermination protein NusB
+BEKNHBDL_00209	CDS	549	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+BEKNHBDL_00210	CDS	438	mltF_1	4.2.2.-	COG4623	Membrane-bound lytic murein transglycosylase F
+BEKNHBDL_00211	CDS	1026	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+BEKNHBDL_00212	CDS	333				hypothetical protein
+BEKNHBDL_00213	CDS	1086				hypothetical protein
+BEKNHBDL_00214	CDS	579				hypothetical protein
+BEKNHBDL_00215	CDS	2277	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+BEKNHBDL_00216	CDS	864				hypothetical protein
+BEKNHBDL_00217	CDS	2004				hypothetical protein
+BEKNHBDL_00218	CDS	543				hypothetical protein
+BEKNHBDL_00219	CDS	261				hypothetical protein
+BEKNHBDL_00220	CDS	1212				hypothetical protein
+BEKNHBDL_00221	CDS	1323				hypothetical protein
+BEKNHBDL_00222	CDS	1077				hypothetical protein
+BEKNHBDL_00223	CDS	939				hypothetical protein
+BEKNHBDL_00224	CDS	1428				hypothetical protein
+BEKNHBDL_00225	CDS	702				hypothetical protein
+BEKNHBDL_00226	CDS	477				hypothetical protein
+BEKNHBDL_00227	CDS	534				hypothetical protein
+BEKNHBDL_00228	CDS	270				hypothetical protein
+BEKNHBDL_00229	CDS	1272				hypothetical protein
+BEKNHBDL_00230	CDS	570				hypothetical protein
+BEKNHBDL_00231	CDS	789	dppA	3.4.11.-	COG2362	D-aminopeptidase
+BEKNHBDL_00232	CDS	363				hypothetical protein
+BEKNHBDL_00233	CDS	1317	lysA	4.1.1.20		Diaminopimelate decarboxylase
+BEKNHBDL_00234	CDS	675				hypothetical protein
+BEKNHBDL_00235	CDS	3918				hypothetical protein
+BEKNHBDL_00236	CDS	1371				hypothetical protein
+BEKNHBDL_00237	CDS	1008				hypothetical protein
+BEKNHBDL_00238	CDS	1260				hypothetical protein
+BEKNHBDL_00239	CDS	1152	tuaC	2.4.-.-	COG0438	Putative teichuronic acid biosynthesis glycosyltransferase TuaC
+BEKNHBDL_00240	CDS	1113	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+BEKNHBDL_00241	CDS	1308				hypothetical protein
+BEKNHBDL_00242	CDS	438				hypothetical protein
+BEKNHBDL_00243	CDS	837				hypothetical protein
+BEKNHBDL_00244	CDS	444				hypothetical protein
+BEKNHBDL_00245	CDS	369				hypothetical protein
+BEKNHBDL_00246	CDS	1560	murJ			lipid II flippase MurJ
+BEKNHBDL_00247	CDS	1140				hypothetical protein
+BEKNHBDL_00248	CDS	1185				hypothetical protein
+BEKNHBDL_00249	CDS	255				hypothetical protein
+BEKNHBDL_00250	CDS	777				hypothetical protein
+BEKNHBDL_00251	CDS	858				hypothetical protein
+BEKNHBDL_00252	CDS	867				hypothetical protein
+BEKNHBDL_00253	CDS	321				hypothetical protein
+BEKNHBDL_00254	CDS	1101	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+BEKNHBDL_00255	CDS	1266				hypothetical protein
+BEKNHBDL_00256	CDS	546				hypothetical protein
+BEKNHBDL_00257	CDS	237	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+BEKNHBDL_00258	CDS	1035				hypothetical protein
+BEKNHBDL_00259	CDS	726	ywqD	2.7.10.2	COG0489	Tyrosine-protein kinase YwqD
+BEKNHBDL_00260	CDS	1425				hypothetical protein
+BEKNHBDL_00261	CDS	1287	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+BEKNHBDL_00262	CDS	420		2.3.1.-		Acetyltransferase
+BEKNHBDL_00263	CDS	1701				hypothetical protein
+BEKNHBDL_00264	CDS	429	nicR		COG1846	HTH-type transcriptional repressor NicR
+BEKNHBDL_00265	CDS	765		3.8.1.7		4-chlorobenzoyl coenzyme A dehalogenase
+BEKNHBDL_00266	CDS	396				hypothetical protein
+BEKNHBDL_00267	CDS	420				hypothetical protein
+BEKNHBDL_00268	CDS	645				hypothetical protein
+BEKNHBDL_00269	CDS	669				hypothetical protein
+BEKNHBDL_00270	CDS	1386	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+BEKNHBDL_00271	CDS	888				hypothetical protein
+BEKNHBDL_00272	CDS	1656	yidC		COG0706	Membrane protein insertase YidC
+BEKNHBDL_00273	CDS	291	rnpA	3.1.26.5		Ribonuclease P protein component
+BEKNHBDL_00274	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+BEKNHBDL_00275	CDS	1554	rng	3.1.26.-	COG1530	Ribonuclease G
+BEKNHBDL_00276	CDS	2484				hypothetical protein
+BEKNHBDL_00277	CDS	906	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+BEKNHBDL_00278	CDS	480				hypothetical protein
+BEKNHBDL_00279	CDS	768	plsC	2.3.1.51	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+BEKNHBDL_00280	CDS	2031				hypothetical protein
+BEKNHBDL_00281	CDS	2442	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+BEKNHBDL_00282	CDS	1122	dnaN		COG0592	Beta sliding clamp
+BEKNHBDL_00283	CDS	543				hypothetical protein
+BEKNHBDL_00284	CDS	618				hypothetical protein
+BEKNHBDL_00285	CDS	3249	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+BEKNHBDL_00286	CDS	576	mltF_2	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+BEKNHBDL_00287	CDS	357	yhbY		COG1534	RNA-binding protein YhbY
+BEKNHBDL_00288	CDS	243				hypothetical protein
+BEKNHBDL_00289	CDS	885				hypothetical protein
+BEKNHBDL_00290	CDS	969				hypothetical protein
+BEKNHBDL_00291	CDS	375				hypothetical protein
+BEKNHBDL_00292	CDS	963	moaA_1			GTP 3',8-cyclase
+BEKNHBDL_00293	CDS	375	cheY_2		COG0784	Chemotaxis protein CheY
+BEKNHBDL_00294	CDS	1431	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+BEKNHBDL_00295	CDS	1017				hypothetical protein
+BEKNHBDL_00296	CDS	432				hypothetical protein
+BEKNHBDL_00297	CDS	633				hypothetical protein
+BEKNHBDL_00298	CDS	1119	nadB_1	1.4.3.16	COG0029	L-aspartate oxidase
+BEKNHBDL_00299	CDS	450	nadB_2	1.4.3.16	COG0029	L-aspartate oxidase
+BEKNHBDL_00300	CDS	606	menG	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+BEKNHBDL_00301	CDS	762	dnaJ_1		COG0484	Chaperone protein DnaJ
+BEKNHBDL_00302	CDS	399	dnaJ_2		COG0484	Chaperone protein DnaJ
+BEKNHBDL_00303	CDS	378	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+BEKNHBDL_00304	CDS	1686				hypothetical protein
+BEKNHBDL_00305	CDS	1347	alsT		COG1115	Amino-acid carrier protein AlsT
+BEKNHBDL_00306	CDS	528				hypothetical protein
+BEKNHBDL_00307	CDS	387				hypothetical protein
+BEKNHBDL_00308	CDS	246				hypothetical protein
+BEKNHBDL_00309	CDS	810				hypothetical protein
+BEKNHBDL_00310	CDS	1062	ilvK	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase 2
+BEKNHBDL_00311	CDS	864	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+BEKNHBDL_00312	CDS	2157	smc			Chromosome partition protein Smc
+BEKNHBDL_00313	CDS	855	hcaR			Hca operon transcriptional activator HcaR
+BEKNHBDL_00314	CDS	723		1.-.-.-		putative oxidoreductase
+BEKNHBDL_00315	CDS	405				hypothetical protein
+BEKNHBDL_00316	CDS	507	moaB		COG0521	Molybdenum cofactor biosynthesis protein B
+BEKNHBDL_00317	CDS	537	pyrR		COG2065	Bifunctional protein PyrR
+BEKNHBDL_00318	CDS	474				hypothetical protein
+BEKNHBDL_00319	CDS	1185				hypothetical protein
+BEKNHBDL_00320	CDS	2022		1.16.1.-	COG0446	Metal reductase
+BEKNHBDL_00321	CDS	1014	oxyT	2.1.1.335		N,N-dimethyltransferase OxyT
+BEKNHBDL_00322	CDS	1251				hypothetical protein
+BEKNHBDL_00323	CDS	456				hypothetical protein
+BEKNHBDL_00324	CDS	1842	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+BEKNHBDL_00325	CDS	1602	vnfA		COG3604	Nitrogen fixation protein VnfA
+BEKNHBDL_00326	CDS	3069	mdtB			Multidrug resistance protein MdtB
+BEKNHBDL_00327	CDS	1152	bepD			Efflux pump periplasmic linker BepD
+BEKNHBDL_00328	CDS	1398	tdeA		COG1538	Toxin and drug export protein A
+BEKNHBDL_00329	CDS	549	sigW_1		COG1595	ECF RNA polymerase sigma factor SigW
+BEKNHBDL_00330	CDS	453				hypothetical protein
+BEKNHBDL_00331	CDS	417				hypothetical protein
+BEKNHBDL_00332	CDS	246				hypothetical protein
+BEKNHBDL_00333	CDS	2148	feoB		COG0370	Fe(2+) transporter FeoB
+BEKNHBDL_00334	CDS	444				hypothetical protein
+BEKNHBDL_00335	CDS	798	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+BEKNHBDL_00336	CDS	2061	mcpU_2		COG0840	Methyl-accepting chemotaxis protein McpU
+BEKNHBDL_00337	CDS	2061	mcpU_3		COG0840	Methyl-accepting chemotaxis protein McpU
+BEKNHBDL_00338	CDS	1146	carC	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+BEKNHBDL_00339	CDS	447	carD_1	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+BEKNHBDL_00340	CDS	321	carD_2	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+BEKNHBDL_00341	CDS	1014	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+BEKNHBDL_00342	CDS	1356	glpD2	1.1.5.3	COG0578	Glycerol-3-phosphate dehydrogenase 2
+BEKNHBDL_00343	CDS	1089	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+BEKNHBDL_00344	CDS	1530	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+BEKNHBDL_00345	CDS	294				hypothetical protein
+BEKNHBDL_00346	CDS	807				hypothetical protein
+BEKNHBDL_00347	CDS	1185				hypothetical protein
+BEKNHBDL_00348	CDS	888				hypothetical protein
+BEKNHBDL_00349	CDS	582				hypothetical protein
+BEKNHBDL_00350	CDS	474				hypothetical protein
+BEKNHBDL_00351	CDS	2988	uvrB			UvrABC system protein B
+BEKNHBDL_00352	CDS	621		2.7.7.-	COG2184	Protein adenylyltransferase NmFic
+BEKNHBDL_00353	CDS	969	dnaA			Chromosomal replication initiator protein DnaA
+BEKNHBDL_00354	CDS	1716				hypothetical protein
+BEKNHBDL_00355	CDS	168				hypothetical protein
+BEKNHBDL_00356	CDS	3408				hypothetical protein
+BEKNHBDL_00357	CDS	636				hypothetical protein
+BEKNHBDL_00358	CDS	942				hypothetical protein
+BEKNHBDL_00359	CDS	540				hypothetical protein
+BEKNHBDL_00360	CDS	822				hypothetical protein
+BEKNHBDL_00361	CDS	834	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+BEKNHBDL_00362	CDS	432				hypothetical protein
+BEKNHBDL_00363	CDS	921	hslO		COG1281	33 kDa chaperonin
+BEKNHBDL_00364	CDS	255				hypothetical protein
+BEKNHBDL_00365	CDS	609	sigW_2		COG1595	ECF RNA polymerase sigma factor SigW
+BEKNHBDL_00366	CDS	2223				hypothetical protein
+BEKNHBDL_00367	CDS	843				hypothetical protein
+BEKNHBDL_00368	CDS	1104				hypothetical protein
+BEKNHBDL_00369	CDS	1143				hypothetical protein
+BEKNHBDL_00370	CDS	261				hypothetical protein
+BEKNHBDL_00371	CDS	969				hypothetical protein
+BEKNHBDL_00372	CDS	897				hypothetical protein
+BEKNHBDL_00373	CDS	1164	lutA			Lactate utilization protein A
+BEKNHBDL_00374	CDS	996				hypothetical protein
+BEKNHBDL_00375	CDS	762			COG1234	putative protein
+BEKNHBDL_00376	CDS	690	cysG_1		COG0007	Siroheme synthase
+BEKNHBDL_00377	CDS	831	ccsA_1			Cytochrome c biogenesis protein CcsA
+BEKNHBDL_00378	CDS	1347	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+BEKNHBDL_00379	CDS	363	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+BEKNHBDL_00380	CDS	849		3.1.3.97	COG0613	3',5'-nucleoside bisphosphate phosphatase
+BEKNHBDL_00381	CDS	705	rnc	3.1.26.3	COG0571	Ribonuclease 3
+BEKNHBDL_00382	CDS	1050				hypothetical protein
+BEKNHBDL_00383	CDS	480				hypothetical protein
+BEKNHBDL_00384	CDS	2403	mrcA		COG5009	Penicillin-binding protein 1A
+BEKNHBDL_00385	CDS	390	hisI	3.5.4.19		Phosphoribosyl-AMP cyclohydrolase
+BEKNHBDL_00386	CDS	651	engB		COG0218	putative GTP-binding protein EngB
+BEKNHBDL_00387	CDS	918	era		COG1159	GTPase Era
+BEKNHBDL_00388	CDS	291				hypothetical protein
+BEKNHBDL_00389	CDS	627				hypothetical protein
+BEKNHBDL_00390	CDS	1503				hypothetical protein
+BEKNHBDL_00391	CDS	600				hypothetical protein
+BEKNHBDL_00392	CDS	1854				hypothetical protein
+BEKNHBDL_00393	CDS	666				hypothetical protein
+BEKNHBDL_00394	CDS	1584				hypothetical protein
+BEKNHBDL_00395	CDS	648	rdgB	3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+BEKNHBDL_00396	CDS	252				hypothetical protein
+BEKNHBDL_00397	CDS	330				hypothetical protein
+BEKNHBDL_00398	CDS	1710				hypothetical protein
+BEKNHBDL_00399	CDS	747	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+BEKNHBDL_00400	CDS	834	rbn	3.1.26.11		Ribonuclease BN
+BEKNHBDL_00401	CDS	660				hypothetical protein
+BEKNHBDL_00402	CDS	1197		1.3.8.1	COG1960	Butyryl-CoA dehydrogenase
+	CRISPR	1970				
+BEKNHBDL_00403	CDS	2223	helD	3.6.4.12	COG3973	DNA helicase IV
+BEKNHBDL_00404	CDS	981				hypothetical protein
+BEKNHBDL_00405	CDS	417				hypothetical protein
+BEKNHBDL_00406	CDS	924	rpnD	3.1.21.-		Recombination-promoting nuclease RpnD
+BEKNHBDL_00407	CDS	1056	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+BEKNHBDL_00408	CDS	1332	ffh		COG0541	Signal recognition particle protein
+BEKNHBDL_00409	CDS	249	rpsP		COG0228	30S ribosomal protein S16
+BEKNHBDL_00410	CDS	231				hypothetical protein
+BEKNHBDL_00411	CDS	519	rimM		COG0806	Ribosome maturation factor RimM
+BEKNHBDL_00412	CDS	750	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+BEKNHBDL_00413	CDS	612			COG4752	putative protein
+BEKNHBDL_00414	CDS	357	rplS		COG0335	50S ribosomal protein L19
+BEKNHBDL_00415	CDS	591	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+BEKNHBDL_00416	CDS	381				hypothetical protein
+BEKNHBDL_00417	CDS	846	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+BEKNHBDL_00418	CDS	456	ackA_1	2.7.2.1	COG0282	Acetate kinase
+BEKNHBDL_00419	CDS	801	ackA_2	2.7.2.1	COG0282	Acetate kinase
+BEKNHBDL_00420	CDS	996	pta	2.3.1.8		Phosphate acetyltransferase
+BEKNHBDL_00421	CDS	924	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+BEKNHBDL_00422	CDS	819				hypothetical protein
+BEKNHBDL_00423	CDS	1116	cckA			Sensor kinase CckA
+BEKNHBDL_00424	CDS	375				hypothetical protein
+BEKNHBDL_00425	CDS	792				hypothetical protein
+BEKNHBDL_00426	CDS	267				hypothetical protein
+BEKNHBDL_00427	CDS	1407				hypothetical protein
+BEKNHBDL_00428	CDS	870	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+BEKNHBDL_00429	tRNA	75				tRNA-Gln(ttg)
+BEKNHBDL_00430	CDS	942	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+BEKNHBDL_00431	CDS	603	ctc		COG1825	General stress protein CTC
+BEKNHBDL_00432	CDS	573	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+BEKNHBDL_00433	CDS	1062	queA	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+BEKNHBDL_00434	CDS	1137	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+BEKNHBDL_00435	CDS	1185		2.6.1.1		Aspartate aminotransferase
+BEKNHBDL_00436	CDS	1212	cdgJ	3.1.4.52	COG3434	Cyclic di-GMP phosphodiesterase CdgJ
+BEKNHBDL_00437	CDS	567	mntP		COG1971	putative manganese efflux pump MntP
+BEKNHBDL_00438	CDS	624				hypothetical protein
+BEKNHBDL_00439	CDS	3066				hypothetical protein
+BEKNHBDL_00440	CDS	282				hypothetical protein
+BEKNHBDL_00441	CDS	351				hypothetical protein
+BEKNHBDL_00442	tRNA	88				tRNA-Leu(caa)
+BEKNHBDL_00443	CDS	330	yciO		COG0009	putative protein YciO
+BEKNHBDL_00444	CDS	270	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+BEKNHBDL_00445	CDS	1764	purD	6.3.4.13		Phosphoribosylamine--glycine ligase
+BEKNHBDL_00446	CDS	936	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B
+BEKNHBDL_00447	CDS	258				hypothetical protein
+BEKNHBDL_00448	CDS	387				hypothetical protein
+BEKNHBDL_00449	tRNA	77				tRNA-Met(cat)
+BEKNHBDL_00450	CDS	2139				hypothetical protein
+BEKNHBDL_00451	CDS	519	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+BEKNHBDL_00452	CDS	915	dnaJ_3		COG0484	Chaperone protein DnaJ
+BEKNHBDL_00453	CDS	792	fetB		COG0390	putative iron export permease protein FetB
+BEKNHBDL_00454	CDS	564	fetA	3.6.3.-	COG4619	putative iron export ATP-binding protein FetA
+BEKNHBDL_00455	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+BEKNHBDL_00456	CDS	930				hypothetical protein
+BEKNHBDL_00457	CDS	1161				hypothetical protein
+BEKNHBDL_00458	CDS	1422				hypothetical protein
+BEKNHBDL_00459	CDS	192				hypothetical protein
+BEKNHBDL_00460	CDS	777	glnQ_2			Glutamine transport ATP-binding protein GlnQ
+BEKNHBDL_00461	CDS	999				hypothetical protein
+BEKNHBDL_00462	CDS	786	fliY_2		COG0834	L-cystine-binding protein FliY
+BEKNHBDL_00463	CDS	1410				hypothetical protein
+BEKNHBDL_00464	CDS	2109	rhlB_3	3.6.4.13		ATP-dependent RNA helicase RhlB
+BEKNHBDL_00465	tmRNA	347	ssrA			transfer-messenger RNA, SsrA
+BEKNHBDL_00466	CDS	546	mntR			HTH-type transcriptional regulator MntR
+BEKNHBDL_00467	CDS	294				hypothetical protein
+BEKNHBDL_00468	CDS	225				hypothetical protein
+BEKNHBDL_00469	CDS	2469	der			GTPase Der
+BEKNHBDL_00470	CDS	318				hypothetical protein
+BEKNHBDL_00471	CDS	801				hypothetical protein
+BEKNHBDL_00472	CDS	1803	btuB_1		COG4206	Vitamin B12 transporter BtuB
+BEKNHBDL_00473	CDS	801				hypothetical protein
+BEKNHBDL_00474	CDS	885				hypothetical protein
+BEKNHBDL_00475	CDS	669				hypothetical protein
+BEKNHBDL_00476	CDS	1242				hypothetical protein
+BEKNHBDL_00477	CDS	180				hypothetical protein
+BEKNHBDL_00478	CDS	792	ccsA_2			Cytochrome c biogenesis protein CcsA
+BEKNHBDL_00479	CDS	819				hypothetical protein
+BEKNHBDL_00480	CDS	1857	cirA		COG4771	Colicin I receptor
+BEKNHBDL_00481	CDS	963				hypothetical protein
+BEKNHBDL_00482	CDS	843				hypothetical protein
+BEKNHBDL_00483	CDS	2211	cheB_2	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+BEKNHBDL_00484	CDS	2640	barA	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+BEKNHBDL_00485	CDS	987				hypothetical protein
+BEKNHBDL_00486	CDS	1317				hypothetical protein
+BEKNHBDL_00487	CDS	462				hypothetical protein
+BEKNHBDL_00488	CDS	588				hypothetical protein
+BEKNHBDL_00489	CDS	2124	hxuC_1		COG1629	Heme/hemopexin utilization protein C
+BEKNHBDL_00490	CDS	447		2.3.1.-	COG1670	Acetyltransferase
+BEKNHBDL_00491	CDS	474				hypothetical protein
+BEKNHBDL_00492	CDS	2430				hypothetical protein
+BEKNHBDL_00493	CDS	807				hypothetical protein
+BEKNHBDL_00494	CDS	1341				hypothetical protein
+BEKNHBDL_00495	CDS	312				hypothetical protein
+BEKNHBDL_00496	CDS	285				hypothetical protein
+BEKNHBDL_00497	CDS	666				hypothetical protein
+BEKNHBDL_00498	CDS	372				hypothetical protein
+BEKNHBDL_00499	CDS	483				hypothetical protein
+BEKNHBDL_00500	CDS	696	ygeA	5.1.1.13		L-aspartate/glutamate-specific racemase
+BEKNHBDL_00501	CDS	501				hypothetical protein
+BEKNHBDL_00502	CDS	351				hypothetical protein
+BEKNHBDL_00503	CDS	975	rhaS_1			HTH-type transcriptional activator RhaS
+BEKNHBDL_00504	CDS	2007	fyuA_1		COG1629	Pesticin receptor
+BEKNHBDL_00505	CDS	1038	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+BEKNHBDL_00506	CDS	444	btuB_2			Vitamin B12 transporter BtuB
+BEKNHBDL_00507	CDS	1527	btuB_3			Vitamin B12 transporter BtuB
+BEKNHBDL_00508	CDS	525				hypothetical protein
+BEKNHBDL_00509	CDS	501				hypothetical protein
+BEKNHBDL_00510	CDS	225				hypothetical protein
+BEKNHBDL_00511	CDS	156				hypothetical protein
+BEKNHBDL_00512	CDS	456				hypothetical protein
+BEKNHBDL_00513	CDS	282				hypothetical protein
+BEKNHBDL_00514	CDS	1110	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+BEKNHBDL_00515	CDS	822	yxeM		COG0834	putative amino-acid-binding protein YxeM
+BEKNHBDL_00516	CDS	681	yxeN			putative amino-acid permease protein YxeN
+BEKNHBDL_00517	CDS	1635	yejF		COG4172	putative ABC transporter ATP-binding protein YejF
+BEKNHBDL_00518	CDS	1035	yejE		COG4239	Inner membrane ABC transporter permease protein YejE
+BEKNHBDL_00519	CDS	1095	yejB		COG4174	Inner membrane ABC transporter permease protein YejB
+BEKNHBDL_00520	CDS	1836	appA			Oligopeptide-binding protein AppA
+BEKNHBDL_00521	CDS	642	hxuC_2		COG1629	Heme/hemopexin utilization protein C
+BEKNHBDL_00522	CDS	981	hemR		COG1629	Hemin receptor
+BEKNHBDL_00523	CDS	423	btuB_4			Vitamin B12 transporter BtuB
+BEKNHBDL_00524	CDS	867				hypothetical protein
+BEKNHBDL_00525	CDS	543	mopR			Phenol regulator MopR
+BEKNHBDL_00526	CDS	828	norR_1			Anaerobic nitric oxide reductase transcription regulator NorR
+BEKNHBDL_00527	CDS	2070	fyuA_2		COG1629	Pesticin receptor
+BEKNHBDL_00528	CDS	1002	rhaR_1			HTH-type transcriptional activator RhaR
+BEKNHBDL_00529	CDS	489				hypothetical protein
+BEKNHBDL_00530	CDS	1455				hypothetical protein
+BEKNHBDL_00531	CDS	951	rhaR_2			HTH-type transcriptional activator RhaR
+BEKNHBDL_00532	CDS	1041				hypothetical protein
+BEKNHBDL_00533	CDS	1737		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+BEKNHBDL_00534	CDS	825				hypothetical protein
+BEKNHBDL_00535	CDS	954	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BEKNHBDL_00536	CDS	1146	ymfD			Bacillibactin exporter
+BEKNHBDL_00537	CDS	1179	gatY	4.1.2.40		D-tagatose-1,6-bisphosphate aldolase subunit GatY
+BEKNHBDL_00538	CDS	504	nudC_1	3.6.1.22	COG2816	NADH pyrophosphatase
+BEKNHBDL_00539	CDS	432				hypothetical protein
+BEKNHBDL_00540	CDS	306				hypothetical protein
+BEKNHBDL_00541	CDS	465				hypothetical protein
+BEKNHBDL_00542	CDS	678	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+BEKNHBDL_00543	CDS	564				hypothetical protein
+BEKNHBDL_00544	CDS	1032			COG1702	PhoH-like protein
+BEKNHBDL_00545	CDS	2280	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+BEKNHBDL_00546	CDS	375	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+BEKNHBDL_00547	CDS	720	pdxJ	2.6.99.2	COG0854	Pyridoxine 5'-phosphate synthase
+BEKNHBDL_00548	CDS	201	APOA1BP	5.1.99.6		NAD(P)H-hydrate epimerase
+BEKNHBDL_00549	CDS	831	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+BEKNHBDL_00550	CDS	540	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+BEKNHBDL_00551	CDS	474	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+BEKNHBDL_00552	CDS	1221	lysC	2.7.2.4	COG0527	Aspartokinase
+BEKNHBDL_00553	CDS	387				hypothetical protein
+BEKNHBDL_00554	CDS	522	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+BEKNHBDL_00555	CDS	441				hypothetical protein
+BEKNHBDL_00556	CDS	966				hypothetical protein
+BEKNHBDL_00557	CDS	567	fbiB		COG0778	Bifunctional F420 biosynthesis protein FbiB
+BEKNHBDL_00558	CDS	1830	dmdC_1	1.3.8.-	COG1960	3-methylmercaptopropionyl-CoA dehydrogenase
+BEKNHBDL_00559	CDS	441				hypothetical protein
+BEKNHBDL_00560	CDS	1167	adhB	1.1.1.1		Alcohol dehydrogenase 2
+BEKNHBDL_00561	CDS	861				hypothetical protein
+BEKNHBDL_00562	CDS	465				hypothetical protein
+BEKNHBDL_00563	CDS	306				hypothetical protein
+BEKNHBDL_00564	CDS	711	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+BEKNHBDL_00565	CDS	642				hypothetical protein
+BEKNHBDL_00566	CDS	564	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+BEKNHBDL_00567	CDS	174	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+BEKNHBDL_00568	CDS	594				hypothetical protein
+BEKNHBDL_00569	CDS	1404	atoC		COG2204	Regulatory protein AtoC
+BEKNHBDL_00570	CDS	2418	rcsC_6	2.7.13.3		Sensor histidine kinase RcsC
+BEKNHBDL_00571	CDS	1761				hypothetical protein
+BEKNHBDL_00572	CDS	339				hypothetical protein
+BEKNHBDL_00573	CDS	762				hypothetical protein
+BEKNHBDL_00574	CDS	2220				hypothetical protein
+BEKNHBDL_00575	CDS	252				hypothetical protein
+BEKNHBDL_00576	CDS	1233	moaA_2			GTP 3',8-cyclase
+BEKNHBDL_00577	CDS	1380	cheD_2	3.5.1.44		Chemoreceptor glutamine deamidase CheD
+BEKNHBDL_00578	CDS	1425	selA	2.9.1.1	COG1921	L-seryl-tRNA(Sec) selenium transferase
+BEKNHBDL_00579	CDS	1200	ycf3			Photosystem I assembly protein Ycf3
+BEKNHBDL_00580	CDS	246				hypothetical protein
+BEKNHBDL_00581	CDS	1533	cysG_2	4.99.1.4		Siroheme synthase
+BEKNHBDL_00582	CDS	375	nudC_2	3.6.1.22	COG2816	NADH pyrophosphatase
+BEKNHBDL_00583	CDS	1173				hypothetical protein
+BEKNHBDL_00584	CDS	204				hypothetical protein
+BEKNHBDL_00585	CDS	2052	mcpU_4		COG0840	Methyl-accepting chemotaxis protein McpU
+BEKNHBDL_00586	CDS	972	bioB	2.8.1.6		Biotin synthase
+BEKNHBDL_00587	CDS	603				hypothetical protein
+BEKNHBDL_00588	CDS	471	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+BEKNHBDL_00589	CDS	231				hypothetical protein
+BEKNHBDL_00590	CDS	108				hypothetical protein
+BEKNHBDL_00591	CDS	1782	phoR	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+BEKNHBDL_00592	CDS	708	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+BEKNHBDL_00593	CDS	648	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+BEKNHBDL_00594	CDS	768	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+BEKNHBDL_00595	CDS	897	pstA1		COG0581	Phosphate transport system permease protein PstA 1
+BEKNHBDL_00596	CDS	885				hypothetical protein
+BEKNHBDL_00597	CDS	810	pstS1		COG0226	Phosphate-binding protein PstS 1
+BEKNHBDL_00598	CDS	387	rplQ		COG0203	50S ribosomal protein L17
+BEKNHBDL_00599	CDS	1032	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+BEKNHBDL_00600	CDS	627	rpsD		COG0522	30S ribosomal protein S4
+BEKNHBDL_00601	CDS	390	rpsK			30S ribosomal protein S11
+BEKNHBDL_00602	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+BEKNHBDL_00603	CDS	222	infA		COG0361	Translation initiation factor IF-1
+BEKNHBDL_00604	CDS	1338	secY		COG0201	Protein translocase subunit SecY
+BEKNHBDL_00605	CDS	447	rplO		COG0200	50S ribosomal protein L15
+BEKNHBDL_00606	CDS	183	rpmD			50S ribosomal protein L30
+BEKNHBDL_00607	CDS	498	rpsE			30S ribosomal protein S5
+BEKNHBDL_00608	CDS	369	rplR		COG0256	50S ribosomal protein L18
+BEKNHBDL_00609	CDS	537	rplF		COG0097	50S ribosomal protein L6
+BEKNHBDL_00610	CDS	402	rpsH		COG0096	30S ribosomal protein S8
+BEKNHBDL_00611	CDS	186	rpsZ		COG0199	30S ribosomal protein S14 type Z
+BEKNHBDL_00612	CDS	540	rplE			50S ribosomal protein L5
+BEKNHBDL_00613	CDS	324	rplX			50S ribosomal protein L24
+BEKNHBDL_00614	CDS	369	rplN		COG0093	50S ribosomal protein L14
+BEKNHBDL_00615	CDS	258	rpsQ			30S ribosomal protein S17
+BEKNHBDL_00616	CDS	1056				hypothetical protein
+BEKNHBDL_00617	CDS	405				hypothetical protein
+BEKNHBDL_00618	CDS	597				hypothetical protein
+BEKNHBDL_00619	CDS	624				hypothetical protein
+BEKNHBDL_00620	CDS	513				hypothetical protein
+BEKNHBDL_00621	CDS	519	btuR	2.5.1.17	COG2109	Corrinoid adenosyltransferase
+BEKNHBDL_00622	tRNA	78				tRNA-Asp(gtc)
+BEKNHBDL_00623	tRNA	76				tRNA-Val(tac)
+BEKNHBDL_00624	CDS	1299	brnQ		COG1114	Branched-chain amino acid transport system 2 carrier protein
+BEKNHBDL_00625	tRNA	78				tRNA-Asp(gtc)
+BEKNHBDL_00626	tRNA	76				tRNA-Val(tac)
+BEKNHBDL_00627	CDS	2352	lon1	3.4.21.53	COG0466	Lon protease 1
+BEKNHBDL_00628	CDS	1167	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+BEKNHBDL_00629	CDS	615	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+BEKNHBDL_00630	CDS	1335	tig	5.2.1.8	COG0544	Trigger factor
+BEKNHBDL_00631	CDS	594				hypothetical protein
+BEKNHBDL_00632	tRNA	77				tRNA-Pro(tgg)
+BEKNHBDL_00633	CDS	309				hypothetical protein
+BEKNHBDL_00634	CDS	1575	lnt	2.3.1.269	COG0815	Apolipoprotein N-acyltransferase
+BEKNHBDL_00635	CDS	1071	prfB		COG1186	Peptide chain release factor RF2
+BEKNHBDL_00636	CDS	543				hypothetical protein
+BEKNHBDL_00637	CDS	1593	thiL	2.7.4.16		Thiamine-monophosphate kinase
+BEKNHBDL_00638	CDS	1398	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+BEKNHBDL_00639	CDS	828			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+BEKNHBDL_00640	CDS	774	tatD	3.1.11.-	COG0084	3'-5' ssDNA/RNA exonuclease TatD
+BEKNHBDL_00641	CDS	894	lpxL	2.3.1.241	COG1560	Lipid A biosynthesis lauroyltransferase
+BEKNHBDL_00642	CDS	513	lip	3.1.1.3	COG1075	Triacylglycerol lipase
+BEKNHBDL_00643	CDS	327				hypothetical protein
+BEKNHBDL_00644	CDS	1035				hypothetical protein
+BEKNHBDL_00645	CDS	1992	fyuA_3		COG1629	Pesticin receptor
+BEKNHBDL_00646	CDS	996				hypothetical protein
+BEKNHBDL_00647	CDS	555				hypothetical protein
+BEKNHBDL_00648	CDS	792	bchB	1.3.7.7		Light-independent protochlorophyllide reductase subunit B
+BEKNHBDL_00649	CDS	1659	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+BEKNHBDL_00650	CDS	771	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+BEKNHBDL_00651	CDS	2970				hypothetical protein
+BEKNHBDL_00652	CDS	399				hypothetical protein
+BEKNHBDL_00653	CDS	504				hypothetical protein
+BEKNHBDL_00654	CDS	843	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+BEKNHBDL_00655	CDS	396				hypothetical protein
+BEKNHBDL_00656	CDS	993				hypothetical protein
+BEKNHBDL_00657	CDS	1131				hypothetical protein
+BEKNHBDL_00658	CDS	1092				hypothetical protein
+BEKNHBDL_00659	CDS	522	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+BEKNHBDL_00660	CDS	438				hypothetical protein
+BEKNHBDL_00661	CDS	891				hypothetical protein
+BEKNHBDL_00662	CDS	471				hypothetical protein
+BEKNHBDL_00663	CDS	1494	norR_2			Anaerobic nitric oxide reductase transcription regulator NorR
+BEKNHBDL_00664	CDS	168				hypothetical protein
+BEKNHBDL_00665	CDS	660				hypothetical protein
+BEKNHBDL_00666	CDS	1104				hypothetical protein
+BEKNHBDL_00667	CDS	456	arsC	1.20.4.4	COG0394	Arsenate reductase
+BEKNHBDL_00668	CDS	687				hypothetical protein
+BEKNHBDL_00669	CDS	774	yfcA		COG0730	putative membrane transporter protein YfcA
+BEKNHBDL_00670	CDS	867				hypothetical protein
+BEKNHBDL_00671	CDS	438				hypothetical protein
+BEKNHBDL_00672	CDS	1398	dmdC_2	1.3.8.-	COG1960	3-methylmercaptopropionyl-CoA dehydrogenase
+BEKNHBDL_00673	CDS	621				hypothetical protein
+BEKNHBDL_00674	CDS	213	tatA		COG1826	Sec-independent protein translocase protein TatA
+BEKNHBDL_00675	CDS	849				hypothetical protein
+BEKNHBDL_00676	CDS	915				hypothetical protein
+BEKNHBDL_00677	CDS	249				hypothetical protein
+BEKNHBDL_00678	CDS	960	rapA_1	3.6.4.-		RNA polymerase-associated protein RapA
+BEKNHBDL_00679	CDS	1152	rapA_2	3.6.4.-		RNA polymerase-associated protein RapA
+BEKNHBDL_00680	tRNA	87				tRNA-Leu(taa)
+BEKNHBDL_00681	CDS	675	nth	4.2.99.18		Endonuclease III
+BEKNHBDL_00682	CDS	2895				hypothetical protein
+BEKNHBDL_00683	CDS	642	ahpF_1	1.8.1.-	COG3634	Alkyl hydroperoxide reductase subunit F
+BEKNHBDL_00684	CDS	993	ahpF_2	1.6.99.3		NADH dehydrogenase
+BEKNHBDL_00685	CDS	1134		3.5.1.47	COG1473	N-acetyldiaminopimelate deacetylase
+BEKNHBDL_00686	CDS	591	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+BEKNHBDL_00687	CDS	687			COG0325	Pyridoxal phosphate homeostasis protein
+BEKNHBDL_00688	CDS	474	queH	1.17.99.6	COG1636	Epoxyqueuosine reductase QueH
+BEKNHBDL_00689	CDS	1818	htpX_2	3.4.24.-		Protease HtpX
+BEKNHBDL_00690	CDS	1683				hypothetical protein
+BEKNHBDL_00691	CDS	822	zupT		COG0428	Zinc transporter ZupT
+BEKNHBDL_00692	CDS	1434	clsA	2.7.8.-		Cardiolipin synthase A
+BEKNHBDL_00693	CDS	651				hypothetical protein
+BEKNHBDL_00694	CDS	534	bfr	1.16.3.1	COG2193	Bacterioferritin
+BEKNHBDL_00695	CDS	435	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+BEKNHBDL_00696	CDS	123				hypothetical protein
+BEKNHBDL_00697	CDS	1170				hypothetical protein
+BEKNHBDL_00698	CDS	267	yafQ	3.1.-.-	COG3041	mRNA interferase toxin YafQ
+BEKNHBDL_00699	CDS	255	dinJ			Antitoxin DinJ
+BEKNHBDL_00700	CDS	429				IS200/IS605 family transposase ISAzo20
+BEKNHBDL_00701	CDS	429				IS200/IS605 family transposase ISAzo20
+BEKNHBDL_00702	CDS	498				hypothetical protein
+BEKNHBDL_00703	CDS	486				hypothetical protein
+BEKNHBDL_00704	CDS	294				hypothetical protein
+BEKNHBDL_00705	CDS	597				hypothetical protein
+BEKNHBDL_00706	CDS	189				hypothetical protein
+BEKNHBDL_00707	CDS	288				hypothetical protein
+BEKNHBDL_00708	CDS	312				hypothetical protein
+BEKNHBDL_00709	CDS	1371				hypothetical protein
+BEKNHBDL_00710	CDS	336				hypothetical protein
+BEKNHBDL_00711	CDS	354				IS66 family transposase ISBaps1
+BEKNHBDL_00712	CDS	1041	aar	5.1.1.1	COG0626	L-alanine/L-glutamate racemase
+BEKNHBDL_00713	CDS	888				hypothetical protein
+BEKNHBDL_00714	CDS	2262	rcsC_7	2.7.13.3		Sensor histidine kinase RcsC
+BEKNHBDL_00715	CDS	546				hypothetical protein
+BEKNHBDL_00716	CDS	426				hypothetical protein
+BEKNHBDL_00717	CDS	1542	yhgF_1		COG2183	Protein YhgF
+BEKNHBDL_00718	CDS	624	yhgF_2		COG2183	Protein YhgF
+BEKNHBDL_00719	CDS	1311				hypothetical protein
+BEKNHBDL_00720	CDS	369	bioA_1	2.6.1.62	COG0161	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+BEKNHBDL_00721	CDS	1647	bioA_2	2.6.1.62		Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+BEKNHBDL_00722	CDS	2001		1.16.1.-	COG0446	Metal reductase
+BEKNHBDL_00723	CDS	681	cdhR		COG4977	HTH-type transcriptional regulator CdhR
+BEKNHBDL_00724	CDS	297	adaA	2.1.1.-	COG2169	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+BEKNHBDL_00725	CDS	822				hypothetical protein
+BEKNHBDL_00726	CDS	510	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+BEKNHBDL_00727	CDS	1143	rpfC	2.7.13.3	COG0642	Sensory/regulatory protein RpfC
+BEKNHBDL_00728	CDS	375				hypothetical protein
+BEKNHBDL_00729	CDS	609	ytfJ		COG3054	putative protein YtfJ
+BEKNHBDL_00730	CDS	747	fliY_3		COG0834	L-cystine-binding protein FliY
+BEKNHBDL_00731	CDS	750				hypothetical protein
+BEKNHBDL_00732	CDS	570	thiE	2.5.1.3		Thiamine-phosphate synthase
+BEKNHBDL_00733	CDS	645	cysK	2.5.1.47		Cysteine synthase
+BEKNHBDL_00734	CDS	966	rhaS_2			HTH-type transcriptional activator RhaS
+BEKNHBDL_00735	CDS	1764		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+BEKNHBDL_00736	CDS	1761		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+BEKNHBDL_00737	CDS	276				hypothetical protein
+BEKNHBDL_00738	CDS	345				hypothetical protein
+BEKNHBDL_00739	CDS	579				hypothetical protein
+BEKNHBDL_00740	CDS	1212				hypothetical protein
+BEKNHBDL_00741	CDS	1950				hypothetical protein
+BEKNHBDL_00742	CDS	1176				hypothetical protein
+BEKNHBDL_00743	CDS	744				hypothetical protein
+BEKNHBDL_00744	CDS	681				hypothetical protein
+BEKNHBDL_00745	CDS	1368				hypothetical protein
+BEKNHBDL_00746	rRNA	111				5S ribosomal RNA
