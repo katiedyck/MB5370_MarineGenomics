@@ -136,15 +136,6 @@ checkm lineage_wf bins_bbd out -t 4 -x fa -f checkm_results_bbd.txt
 echo "Finished checkm in $(pwd) at $(date)"
 ```
 
-### Functional Analysis of the BBD Metagenome
-
-For the functional analysis of metagenomes, the overall goal is to answer two questions:
-
-1. What taxonomic groups of microbes are present?
-2. What can they do? (What genes do they have and what biochemical pathways do these support?)
-
-To begin our functional analysis, we use the BBD assembly that we have generated.
-
 ### Step 4: Select bins based on checkm results
 
 The results of the checkm bin quality check can be found in the text file `checkm_results_bbd.txt`, which is saved inside the checkm directory.
@@ -195,12 +186,7 @@ gtdbtk classify_wf -x fa --cpus 2 --genome_dir genomes --out_dir out --skip_ani_
 echo "Finished gtdbtk in $(pwd) at $(date)"
 ```
 
-```{r gtdbtk results, eval=FALSE}
-library(tidyverse)
-
-gtdbtk_result <- read_tsv("../gtdbtk/out/gtdbtk.bac120.summary.tsv")
-head(gtdbtk_result)
-```
+The output of this file is saved in `gtdbtk.bac120.summary.tsv`.
 
 ### Step 6: Find and annotate genes with prokka
 
@@ -289,4 +275,52 @@ Two pathways from the output are of interest to us.
 grep 'PWY-101' *.ec.report
 ```
 
-+ `PWY-101` is found in contig_119, metabat.27, metabat.48, and metabat.50.
+`PWY-101` is found in contig_119, metabat.27, metabat.48, and metabat.50.
+
+To view the taxonomy of bins containing this pathway, cross reference the results with the output from `gtdbtk`.
+
+```{bash view bin taxonomy, eval=FALSE}
+grep 'contig_119' ../gtdbtk/out/gtdbtk.bac120.summary.tsv
+grep 'metabat.27' ../gtdbtk/out/gtdbtk.bac120.summary.tsv
+grep 'metabat.48' ../gtdbtk/out/gtdbtk.bac120.summary.tsv
+grep 'metabat.50' ../gtdbtk/out/gtdbtk.bac120.summary.tsv
+```
+
+2. [**Superpathway of tetrathionate reduction**](https://biocyc.org/META/NEW-IMAGE?type=PATHWAY&object=PWY-5360) (metacyc code `PWY-5360`) - includes enzymes needed to reduce sulfite to hydrogen sulfide. 
+
+```{bash search tetrathionate, eval=FALSE}
+grep 'PWY-5360' *.ec.report
+```
+
+`PWY-5360` is only found in metabat.56.
+
+We will cross-reference the results with the `gtdbtk` output to view the taxonomy of bins containing this pathway.
+
+```{bash view tetrathionate bin taxonomy, eval=FALSE}
+# Cross reference results with gtdbtk output
+grep 'metabat.56' ../gtdbtk/out/gtdbtk.bac120.summary.tsv
+```
+
+## Results
+
+**Summarise your metagenome assembly of black band disease. How good is the assembly? Thanks about the metrics you have learned throughout the module to report on this.**
+In my metagenome assembly, the most complete bins are *contig_119* and *metabat.50* (97.62% and 97.56%, respectively). In the contig_119 bin, only 9 of 454 markers are missing, while in the metabat.50 bin only 11 of the 579 markers are missing. The high completeness of these bins indicates that they likely contain most of the information pertaining to function within the BBD community.
+
+**What organisms make up the largest components of the assembly? (results from gtdbtk)**
+I have joined the appropriate columns from `checkm_results_bbd.txt` with `gtdbtk.bac120.summary.tsv` to help visualise which organisms make up the largest components of the assembly.
+
+```{r gtdbtk results}
+library(tidyverse)
+
+gtdbtk_result <- read_tsv("../gtdbtk/out/gtdbtk.bac120.summary.tsv")
+head(gtdbtk_result)
+```
+
+**A brief summary of the results of prokka and minpath annotation on this assembly. How many genes were identified by Prokka? Of these how many were assigned an EC number?**
+
+
+## Discussion
+
+**Comment on the quality of your assembly compared with previously published results using Illumina data from Sato et al. Can you identify bins representing key bacterial taxa that are found in both assemblies? Are there any highly complete bins in one assembly that do not have a clear match in the other assembly? For bins that match across assemblies how to the completeness and contamination statistics compare?**
+
+**Comment on the results of pathway analysis with minpath. Which bin contains most of the genes required for photosynthesis? Which bin or bins are most likely to be contributing to sulfate reduction?**
