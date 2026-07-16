@@ -309,15 +309,47 @@ In my metagenome assembly, the most complete bins are *contig_119* and *metabat.
 **What organisms make up the largest components of the assembly? (results from gtdbtk)**
 I have joined the appropriate columns from `checkm_results_bbd.txt` with `gtdbtk.bac120.summary.tsv` to help visualise which organisms make up the largest components of the assembly.
 
-```{r gtdbtk results}
+```{r load packages, echo=FALSE, include=FALSE}
 library(tidyverse)
+library(readr)
+```
 
+
+```{r gtdbtk results, include=FALSE}
 gtdbtk_result <- read_tsv("../gtdbtk/out/gtdbtk.bac120.summary.tsv")
-head(gtdbtk_result)
+# head(gtdbtk_result)
+
+checkm_result <- readLines("../checkm/checkm_results_bbd.txt")
+lines <- checkm_result[!grepl("^-+$", checkm_result)]   # Remove dashed lines
+checkm_result <- read_table(paste(lines, collapse = "\n"))   # Read using whitespace as the delimiter
+# head(checkm_result)
+```
+
+```{r left join}
+# Left join
+org_assembly <- left_join(gtdbtk_result, checkm_result, by = c("user_genome" = "Bin")) %>%
+  # remove unnecessary columns
+  select(c(1,2,23,24,26:33)) %>%
+  # fix column names
+  rename(c("bin_id" = "user_genome", "organism" = "classification", "# genomes" = "lineage", "# markers" = "#", "0" = "#_1", "1" = "markers", "2" = "#_2", "3" = "marker", "4" = "sets", "5+" = "0", "completeness" = "1", "contamination" = "2"))
+
+print(org_assembly, n = Inf)
 ```
 
 **A brief summary of the results of prokka and minpath annotation on this assembly. How many genes were identified by Prokka? Of these how many were assigned an EC number?**
 
+```{bash, eval=FALSE}
+cd prokka
+ls
+ls contig_119
+ls contig_119/contig_119.tsv
+
+# while loop reads each line, assigns variable bin to be the value on each line
+while read bin;do echo $bin; done < ../checkm/bbd_topbins.txt
+# each one is a directory in our prokka directory. we want a pattern line (e.g. name_of_bin, name_of_bin.tsv).
+
+cat ../minpath/*.ec|wc -l
+```
 
 ## Discussion
 
