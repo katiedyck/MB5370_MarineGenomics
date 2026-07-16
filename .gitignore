@@ -17,7 +17,6 @@
 *.json
 *.tre
 *.gff
-*.sh
 *.gfa
 *.gv
 *.bam.csi
